@@ -1,12 +1,8 @@
-# 示例 宇宙自助洗衣店 Cosmos Laundromat 2015 [◂电影双语标题+年份]
+# 对不起，宝贝 Sorry, Baby (2025)
 
-示例 在一个荒凉的小岛，自杀羊弗兰克满足他的命运在一个古怪的推销员，谁提供他一生的礼物。他一点也不知道，他只能处理这么多的“寿命”。
+Agnes身上发生了一些不好的事情。但生活还在继续......至少对她身边的每个人来说。
 
-[▲ 对这部电影的中文介绍，可以来自中文维基百科和TMDB，或者在许可协议不冲突的情况下来自其他来源，比如豆瓣，也可以自行从英语进行翻译]
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CosmosLaundromatPoster.jpg/500px-CosmosLaundromatPoster.jpg" alt="电影海报" width="200" />
-
-[▲ 此处提供电影海报的合理使用版本以供解释之用]
+<img src="https://image.tmdb.org/t/p/w1280/iq1QtN1H8AVEBfl1SgNAqhMgTbQ.jpg" alt="电影海报" width="200" />
 
 <table>
   <tr>
@@ -15,14 +11,11 @@
     <th>TMDB</th>
   </tr>
   <tr>
-    <!-- 豆瓣 --><td><a href="https://example.com"><img src="https://m.douban.com/favicon.ico" alt="豆瓣" width="24" height="24" /></a></td>
-    <!-- IMDb --><td><a href="https://example.com"><img src="https://www.imdb.com/favicon.ico" alt="IMDb" width="24" height="24" /></a></td>
-    <!-- TMDB --><td><a href="https://example.com"><img src="https://www.themoviedb.org/favicon.ico" alt="TMDB" width="24" height="24" /></a></td>
+    <!-- 豆瓣 --><td><a href="https://m.douban.com/movie/subject/36809707/"><img src="https://m.douban.com/favicon.ico" alt="豆瓣" width="24" height="24" /></a></td>
+    <!-- IMDb --><td><a href="https://www.imdb.com/title/tt32843349/"><img src="https://www.imdb.com/favicon.ico" alt="IMDb" width="24" height="24" /></a></td>
+    <!-- TMDB --><td><a href="https://www.themoviedb.org/movie/1205515-sorry-baby?language=zh-CN"><img src="https://www.themoviedb.org/favicon.ico" alt="TMDB" width="24" height="24" /></a></td>
   </tr>
 </table>
-
-[▲ 此处提供电影的各个数据库链接]
-
 
 
 <h1 id="目录">📑 目录 / Table of Contents</h1>
@@ -49,6 +42,7 @@
 
 <h1 id="字幕下载">⬇️ 字幕下载</h1>
 
+<!--
 <table>
   <tr>
     <th>字幕库</th>
@@ -63,27 +57,21 @@
     <td><a href="https://opensubtitles.org"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles" width="24" height="24"/></a></td>
   </tr>
 </table>
-
-[▲ 仅当字幕制作完成且发布后显示此节，对于隐藏请使用 html 语法 ``<!--需要隐藏的内容-->``]
+-->
 
 <h2 id="字幕进度">⏳ 字幕进度</h2>
 
-- [X] 时间轴
-- [X] 翻译
-- [X] 校对
-- [ ] 特效（99%）
-- [ ] 发布（10%）
-
-[▲ 当字幕制作流程取得进展后请更新此节]
+- [ ] 时间轴
+- [ ] 翻译
+- [ ] 校对
+- [ ] 特效
+- [ ] 发布
 
 <details>
 <summary id="待办事项">📝 待办事项</summary>
 
-- [x] 翻译第00:03:01-00:04:00（100%）
-- [ ] 特效00:04:00（50%）
-- [ ] 调整GitHub Readme（0%）
+- [ ] 翻译第一节
 
-[▲ 此处可以作为上一节的详细补充，一个向外界披露的待办事项列表]
 </details>
 
 
