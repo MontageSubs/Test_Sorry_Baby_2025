@@ -1,6 +1,6 @@
 # 对不起，宝贝 Sorry, Baby (2025)
 
-安格尼斯身上发生了一些不好的事情。但生活还在继续......至少对她身边的每个人来说。
+安尼丝身上发生了一些不好的事情。但生活还在继续......至少对她身边的每个人来说。
 
 <img src="https://image.tmdb.org/t/p/w1280/iq1QtN1H8AVEBfl1SgNAqhMgTbQ.jpg" alt="电影海报" width="200" />
 
