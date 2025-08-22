@@ -525,11 +525,11 @@ I wanna hear your arguments.
 I gave you my...
 
 106
-00:06:38,210 --> 00:06:40,710
+00:06:38,280 --> 00:06:40,710
 {\an2}《洛丽塔》
 
 107
-00:06:38,210 --> 00:06:40,710
+00:06:38,280 --> 00:06:40,710
 {\an9}美籍俄裔作家纳博科夫描绘未成年人性剥削的争议之作
 
 108
@@ -999,7 +999,7 @@ Right?
 
 201
 00:11:12,860 --> 00:11:14,920
-她说话态度真有问题
+她说话口气真有问题
 She's got a really rude tone.
 
 202
@@ -1094,7 +1094,7 @@ The wood... it's gorgeous.
 
 220
 00:11:58,790 --> 00:12:00,840
-纹理是高档的 低调奢华
+高档的 很奢华
 It's rich. Like dark.
 
 221
@@ -1209,7 +1209,7 @@ That little house.
 
 243
 00:12:37,090 --> 00:12:40,550
-就你们三个走出去的觉得飞逝
+就你们三个走出去的会觉得飞逝
 But time probably flies for the three of you who left.
 
 244
@@ -1298,7 +1298,7 @@ Yeah, sometimes I have nightmares
 
 261
 00:13:20,070 --> 00:13:23,840
-梦到我论文全变白纸 我还把它吞了
+梦到我论文全变白纸 我还把它吃了
 where my thesis is like all blank pages, and then I eat the pages.
 
 262
@@ -1461,12 +1461,12 @@ It's just like maybe you should, like,
 debone it a little bit better before you serve it to people.
 
 294
-00:14:59,370 --> 00:15:01,000
+00:14:59,370 --> 00:15:01,110
 你好呀 我的猫宝贝
 Hello, my baby.
 
 295
-00:15:01,080 --> 00:15:02,710
+00:15:01,390 --> 00:15:03,160
 我的猫宝贝
 Oh, you're a baby.
 
