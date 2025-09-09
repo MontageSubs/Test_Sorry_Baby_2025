@@ -2601,7 +2601,7 @@ This whole section from page three through seven,
 I find to be absolutely just...
 
 523
-00:27:30,710 --> 00:27:33,246
+00:27:30,710 --> 00:27:33,250
 出类拔萃
 extraordinary.
 
@@ -3346,7 +3346,7 @@ right after something like this happens.
 Oh, okay. I will definitely keep that in mind for the next time.
 
 672
-00:42:54,437 --> 00:42:57,510
+00:42:54,440 --> 00:42:57,510
 在急诊室会用性侵取证包
 Well, that's when we would use a sexual assault forensic evidence kit.
 
@@ -3366,7 +3366,7 @@ you're taking right now.
 Like, we just need a tonal shift.
 
 676
-00:43:04,210 --> 00:43:09,455
+00:43:04,210 --> 00:43:09,460
 就想检查有没有被传到什么 通过阴道的那种
 Just wanna make sure he didn't give me anything, like, vaginally or yeah.
 
@@ -3386,12 +3386,12 @@ Um, well, I wouldn't call him my attacker.
 It wasn't like, bah!
 
 680
-00:43:16,930 --> 00:43:18,935
+00:43:16,930 --> 00:43:18,940
 你可被强奸了啊
 But you were raped.
 
 681
-00:43:18,960 --> 00:43:20,745
+00:43:18,960 --> 00:43:20,750
 - 哎呦喂 - 是 无言以对
 - Whoa. - Yeah. And well put.
 
@@ -3401,17 +3401,17 @@ But you were raped.
 I know this is hard to talk about.
 
 683
-00:43:24,683 --> 00:43:26,254
+00:43:24,680 --> 00:43:26,250
 不像是您真理解了啊
 It doesn't feel that you know that.
 
 684
-00:43:26,279 --> 00:43:27,971
+00:43:26,280 --> 00:43:27,970
 没办法 得按流程里的问
 These questions are protocol.
 
 685
-00:43:27,996 --> 00:43:30,190
+00:43:28,000 --> 00:43:30,190
 嗯 但您的问法真刺人啊
 Yeah, you're asking them in a really freaky way.
 
@@ -3436,7 +3436,7 @@ You can finish your questions.
 Did he ejaculate in you?
 
 690
-00:43:36,585 --> 00:43:38,195
+00:43:36,590 --> 00:43:38,200
 真能问啊
 Horrible word.
 
@@ -3476,7 +3476,7 @@ and then we'll do a cervix culture.
 She said yum.
 
 698
-00:44:01,300 --> 00:44:03,908
+00:44:01,300 --> 00:44:03,910
 我马上回来 马上开始
 I'll be right back, and we can get started.
 
@@ -3676,12 +3676,12 @@ and the University is unfortunately unable
 to take any kind of responsibility.
 
 738
-00:47:25,040 --> 00:47:27,751
+00:47:25,040 --> 00:47:27,750
 可他是我的导师啊
 But he was my advisor.
 
 739
-00:47:28,652 --> 00:47:31,340
+00:47:28,650 --> 00:47:31,340
 前任 导师
 Former advisor.
 
@@ -3696,12 +3696,12 @@ You have the option of going to the police station and reporting this
 and issuing an arrest warrant.
 
 742
-00:47:47,770 --> 00:47:50,645
+00:47:47,770 --> 00:47:50,650
 我们对此感同身受
 We know what you're going through.
 
 743
-00:47:51,520 --> 00:47:52,967
+00:47:51,520 --> 00:47:52,970
 我们也是女性
 We are women.
 
@@ -3870,12 +3870,12 @@ That's no problem.
 Do you wanna come inside while I look?
 
 777
-00:50:10,190 --> 00:50:12,372
+00:50:10,190 --> 00:50:12,370
 算了 想在这儿等 行吗？
 Uh, no, sorry. Can I wait outside?
 
 778
-00:50:12,397 --> 00:50:15,907
+00:50:12,400 --> 00:50:15,910
 行 没问题 我马上给你
 Yeah. Don't worry about it. Um, I'll be back soon.
 
@@ -3890,7 +3890,7 @@ This should do the trick.
 Great, thanks.
 
 781
-00:50:31,730 --> 00:50:36,395
+00:50:31,730 --> 00:50:36,400
 倒在要烧的东西上 就行了吧？
 And so do I just pour this on the thing I want to be on fire?
 
@@ -4039,7 +4039,7 @@ No, I don't even want him to die.
 I do.
 
 811
-00:52:29,623 --> 00:52:31,783
+00:52:29,620 --> 00:52:31,780
 我不想他死
 I don't want him to die.
 
@@ -4283,7 +4283,7 @@ Fill it out and return it to us completed.
 We have little pencils if you need a little pencil.
 
 860
-00:59:36,280 --> 00:59:39,793
+00:59:36,280 --> 00:59:39,790
 {\an2}（陪审员资格问卷表
 安尼丝·沃德 28岁）
 
@@ -4537,17 +4537,17 @@ Uh, I was robbed. At gunpoint.
 Do you have any reason to believe
 
 911
-01:02:03,645 --> 01:02:05,690
+01:02:03,650 --> 01:02:05,690
 那次遭遇会妨碍您
 that experience would make you unable to serve
 
 912
-01:02:05,715 --> 01:02:08,148
+01:02:05,720 --> 01:02:08,150
 作为此庭公正陪审员吗？
 as an impartial juror on this trial?
 
 913
-01:02:08,173 --> 01:02:09,343
+01:02:08,170 --> 01:02:09,340
 不会
 No.
 
@@ -4582,7 +4582,7 @@ No, I realized I shouldn't share it. So...
 You're unable to share the crime?
 
 920
-01:02:27,173 --> 01:02:30,693
+01:02:27,170 --> 01:02:30,690
 这样说吧 大庭广众说出来那事儿
 It is frankly my worst nightmare to have to tell this whole room of strangers
 
@@ -4602,7 +4602,7 @@ So...
 that is the reasoning as to why I did not decide
 
 924
-01:02:37,470 --> 01:02:39,745
+01:02:37,470 --> 01:02:39,750
 又放下来了
 to continue having my hand raised.
 
@@ -4831,7 +4831,7 @@ Rex?
 Oh, my God.
 
 970
-01:06:11,670 --> 01:06:13,196
+01:06:11,670 --> 01:06:13,200
 刚才满意吗？
 Did you have a good time?
 
@@ -4841,12 +4841,12 @@ Did you have a good time?
 What?
 
 972
-01:06:15,110 --> 01:06:17,529
+01:06:15,110 --> 01:06:17,530
 你满意刚才的那个吗？
 Did you like the sex we just had?
 
 973
-01:06:17,955 --> 01:06:18,995
+01:06:17,960 --> 01:06:19,000
 嗯嗯
 Mhmm.
 
@@ -4861,137 +4861,137 @@ Okay.
 Good.
 
 976
-01:06:25,959 --> 01:06:27,009
+01:06:25,960 --> 01:06:27,010
 谢谢
 Thank you.
 
 977
-01:06:27,676 --> 01:06:29,037
+01:06:27,680 --> 01:06:29,040
 谢谢你
 Thank you.
 
 978
-01:06:48,980 --> 01:06:53,465
+01:06:48,980 --> 01:06:53,470
 安尼丝 你带的讨论课
 Agnes, we've gotten incredibly positive feedback
 
 979
-01:06:53,490 --> 01:06:55,329
+01:06:53,490 --> 01:06:55,330
 学生反馈非常好
 from the students in your discussion section
 
 980
-01:06:55,354 --> 01:06:58,795
+01:06:55,350 --> 01:06:58,800
 作为兼职教师你很受欢迎
 about your part-time contribution to this university.
 
 981
-01:06:58,820 --> 01:07:04,778
+01:06:58,820 --> 01:07:04,780
 不管是现任教师 还是前任 都在夸你
 From current faculty, former faculty, it's just all glowing.
 
 982
-01:07:04,803 --> 01:07:06,989
+01:07:04,800 --> 01:07:06,990
 - 还有前任？ - 有
 - Former faculty? - Yes.
 
 983
-01:07:07,014 --> 01:07:10,072
+01:07:07,010 --> 01:07:10,070
 大家都这样形容你...
 You've been called, let's see,
 
 984
-01:07:10,698 --> 01:07:12,395
+01:07:10,700 --> 01:07:12,400
 乐于助人
 helpful,
 
 985
-01:07:12,420 --> 01:07:14,464
+01:07:12,420 --> 01:07:14,460
 无微不至
 supportive,
 
 986
-01:07:14,659 --> 01:07:16,720
+01:07:14,660 --> 01:07:16,720
 还有 出类拔萃
 extraordinary.
 
 987
-01:07:16,745 --> 01:07:18,655
+01:07:16,750 --> 01:07:18,660
 一直在讨论谁来接手
 We know there's been talk about the open spot here
 
 988
-01:07:18,680 --> 01:07:21,056
+01:07:18,680 --> 01:07:21,060
 普雷斯顿·德克尔离职后的空位
 since Preston left, we haven't...
 
 989
-01:07:21,081 --> 01:07:24,763
+01:07:21,080 --> 01:07:24,760
 得找个最合适的接手人
 well, we wanted to find the right fit for the program.
 
 990
-01:07:25,096 --> 01:07:27,615
+01:07:25,100 --> 01:07:27,620
 很高兴 费尔波特这儿终于要
 And we are thrilled to finally offer you
 
 991
-01:07:27,640 --> 01:07:31,018
+01:07:27,640 --> 01:07:31,020
 请你做全职教师了
 a full-time teaching position here at Fairport.
 
 992
-01:07:31,075 --> 01:07:32,125
+01:07:31,080 --> 01:07:32,130
 真的？
 Really?
 
 993
-01:07:32,150 --> 01:07:33,505
+01:07:32,150 --> 01:07:33,510
 真的 真的
 Yes, yes.
 
 994
-01:07:33,530 --> 01:07:36,224
+01:07:33,530 --> 01:07:36,220
 系里一致同意的
 The department voted unanimously.
 
 995
-01:07:36,292 --> 01:07:39,159
+01:07:36,290 --> 01:07:39,160
 哇 我接受
 Wow. I accept.
 
 996
-01:07:39,543 --> 01:07:40,715
+01:07:39,540 --> 01:07:40,720
 太好了
 Terrific.
 
 997
-01:07:40,909 --> 01:07:44,425
-你来教 二十世纪小说 这门入门课
+01:07:40,910 --> 01:07:44,430
+你来教入门课 二十世纪小说
 You'll teach our introductory course, "The Twentieth Century Novel,"
 
 998
-01:07:44,450 --> 01:07:46,595
+01:07:44,450 --> 01:07:46,600
 你已经带过几回了
 which you've led a few times,
 
 999
-01:07:46,620 --> 01:07:49,088
+01:07:46,620 --> 01:07:49,090
 还可以自己开一门选修课
 and you'll also create your own elective.
 
 1000
-01:07:49,113 --> 01:07:50,895
+01:07:49,110 --> 01:07:50,900
 我们很想请你
 We would love for you to consider
 
 1001
-01:07:50,920 --> 01:07:53,475
+01:07:50,920 --> 01:07:53,480
 开一门短篇小说选读课
 teaching a class on the art of the short story
 
 1002
-01:07:53,500 --> 01:07:54,815
+01:07:53,500 --> 01:07:54,820
 都读过你那论文
 since we all read your thesis
 
@@ -5001,22 +5001,22 @@ since we all read your thesis
 and frankly found that fascinating.
 
 1004
-01:07:58,501 --> 01:07:59,319
+01:07:58,500 --> 01:07:59,320
 行吧
 Okay.
 
 1005
-01:07:59,344 --> 01:08:01,425
+01:07:59,340 --> 01:08:01,430
 想教别的也行
 Or if there's another course you'd rather teach, though.
 
 1006
-01:08:01,450 --> 01:08:02,735
+01:08:01,450 --> 01:08:02,740
 不 不是 只是...
 No, no, it's just I...
 
 1007
-01:08:02,760 --> 01:08:06,195
+01:08:02,760 --> 01:08:06,200
 发表后我就没碰过它 但我会再看的
 I haven't looked at my thesis since I published it, but I will.
 
@@ -5026,32 +5026,32 @@ I haven't looked at my thesis since I published it, but I will.
 I can...I can look through it, and I will create a syllabus for you to look at.
 
 1009
-01:08:10,175 --> 01:08:11,135
+01:08:10,180 --> 01:08:11,140
 太好了
 Wonderful.
 
 1010
-01:08:11,160 --> 01:08:14,133
+01:08:11,160 --> 01:08:14,130
 我们很高兴你能来任教
 We're thrilled to have you.
 
 1011
-01:08:16,173 --> 01:08:18,299
+01:08:16,170 --> 01:08:18,300
 谢谢
 Thank you.
 
 1012
-01:08:21,947 --> 01:08:24,380
+01:08:21,950 --> 01:08:24,380
 安尼丝 跟你说件事
 Agnes, I have to tell you something.
 
 1013
-01:08:24,405 --> 01:08:27,285
+01:08:24,410 --> 01:08:27,290
 我恋爱啦
 I am in love.
 
 1014
-01:08:27,310 --> 01:08:29,595
+01:08:27,310 --> 01:08:29,600
 - 真的？ - 是呀 - 天呐
 - What? - Yeah! - What?
 
@@ -5061,7 +5061,7 @@ I am in love.
 And like, super, super gay.
 
 1016
-01:08:33,025 --> 01:08:34,475
+01:08:33,030 --> 01:08:34,480
 远超咱们想象
 Like, gayer than we thought.
 
@@ -5071,136 +5071,136 @@ Like, gayer than we thought.
 Oh, wow.
 
 1018
-01:08:35,825 --> 01:08:37,235
+01:08:35,830 --> 01:08:37,240
 天呐 是那位吗？
 Oh, my God. With that person?
 
 1019
-01:08:37,260 --> 01:08:38,775
+01:08:37,260 --> 01:08:38,780
 - 对 弗兰 - 好
 - Yeah. Fran. - Okay.
 
 1020
-01:08:38,800 --> 01:08:40,275
+01:08:38,800 --> 01:08:40,280
 - 对 - 厉害
 - Yeah. - Wow.
 
 1021
-01:08:40,300 --> 01:08:44,172
+01:08:40,300 --> 01:08:44,170
 做女同又恋爱了 超幸福吧？
 Wow. Okay, are you so happy being gay and in love?
 
 1022
-01:08:44,197 --> 01:08:49,343
-幸福死了 做女同又恋爱棒了
+01:08:44,200 --> 01:08:49,340
+幸福死了 做女同又恋爱超棒
 Oh, I'm like really, really happy being gay and in love.
 
 1023
-01:08:49,368 --> 01:08:51,035
+01:08:49,370 --> 01:08:51,040
 天呐 你得见见TA！
 Oh, my God, you have to meet them!
 
 1024
-01:08:51,060 --> 01:08:53,756
+01:08:51,060 --> 01:08:53,760
 好 我绝对想见
 Yeah, I totally do. I do.
 
 1025
-01:08:53,987 --> 01:08:59,174
+01:08:53,990 --> 01:08:59,170
 哦 利迪 你值得永远 永远被爱
 You...Oh, Lydie, you deserve to be in love all the time forever.
 
 1026
-01:08:59,715 --> 01:09:01,140
+01:08:59,720 --> 01:09:01,140
 谢谢你 宝贝
 Thank you, babe.
 
 1027
-01:09:01,165 --> 01:09:04,295
+01:09:01,170 --> 01:09:04,300
 对 对了 我拿到职位了
 Well, well... so I got the job.
 
 1028
-01:09:04,320 --> 01:09:05,087
+01:09:04,320 --> 01:09:05,090
 什么？
 What?
 
 1029
-01:09:05,112 --> 01:09:06,860
+01:09:05,110 --> 01:09:06,860
 我转正了
 I got the full-time position.
 
 1030
-01:09:06,885 --> 01:09:08,215
+01:09:06,890 --> 01:09:08,220
 天呐
 Oh, my God!
 
 1031
-01:09:08,240 --> 01:09:09,635
+01:09:08,240 --> 01:09:09,640
 真假的？安尼丝
 What? Agnes!
 
 1032
-01:09:09,660 --> 01:09:12,225
+01:09:09,660 --> 01:09:12,230
 真的 但没恋爱那么棒
 Yeah, well, it's, it's...not as good as being in love.
 
 1033
-01:09:12,250 --> 01:09:14,136
+01:09:12,250 --> 01:09:14,140
 才不是呢 这超棒的
 Yes it is. This is amazing.
 
 1034
-01:09:14,161 --> 01:09:15,559
+01:09:14,160 --> 01:09:15,560
 太好了
 This is great.
 
 1035
-01:09:15,584 --> 01:09:16,795
+01:09:15,580 --> 01:09:16,800
 我的安尼丝
 Agnes.
 
 1036
-01:09:16,821 --> 01:09:19,211
+01:09:16,820 --> 01:09:19,210
 行吧 也挺棒
 Yeah, no, it's good.
 
 1037
-01:09:19,583 --> 01:09:23,437
+01:09:19,580 --> 01:09:23,440
 真的 真的是你应得的 安尼丝
 You really, really earned this, Agnes.
 
 1038
-01:09:23,870 --> 01:09:27,001
+01:09:30,533 --> 01:09:33,079
+这就是你的办公室了
+And here is your office.
+
+1039
+01:09:33,480 --> 01:09:35,625
+有需要随时找我
+Let me know if you need anything,
+
+1040
+01:09:35,650 --> 01:09:37,879
+像灯泡坏了这类 随时找我
+if a light bulb goes out, anything like that.
+
+1041
+01:09:38,017 --> 01:09:39,555
+- 谢谢你 索菲 - 嗯
+- Thanks, Sophie. - Mm.
+
+1042
+01:10:03,218 --> 01:10:06,348
 {\an8}这部电影用词很复杂 双关 多关
 对于依赖字幕的观众 不建议继续观看
 以免影响对这部电影的理解
 
-1039
-01:09:27,026 --> 01:09:30,369
+1043
+01:10:06,373 --> 01:10:10,039
 {\an8}以下字幕由机器翻译
 仅供制作期间前期校准 调轴 预览 参考 人工翻译正在进行中...
 可在 github.com/MontageSubs 或者TG群了解进展
-
-1040
-01:09:30,520 --> 01:09:32,560
-这里是你的办公室
-And here is your office.
-
-1041
-01:09:33,480 --> 01:09:35,560
-如果你需要什么就告诉我
-Let me know if you need anything,
-
-1042
-01:09:35,650 --> 01:09:37,690
-如果灯泡熄灭了 诸如此类的事情
-if a light bulb goes out, anything like that.
-
-1043
-01:09:37,770 --> 01:09:39,150
-—谢谢 索菲 —嗯
-- Thanks, Sophie. - Mm.
 
 1044
 01:10:10,680 --> 01:10:12,520
