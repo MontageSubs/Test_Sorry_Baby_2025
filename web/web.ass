@@ -27,7 +27,6 @@ Style: Eng,Microsoft YaHei,10,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-
 Dialogue: 0,0:00:03.11,0:00:07.35,Default,,0,0,0,,{\b1\fscx150\shad0\bord0\fsp2\fs24\1c00AAAAAA}（A24影业）
 Dialogue: 0,0:00:09.38,0:00:14.82,Default,,0,0,0,,{\b1\fscx150\shad0\bord0\fsp2\fs24\1c00AAAAAA}（探戈娱乐）
 Dialogue: 0,0:00:18.57,0:00:21.90,Default,,0,0,0,,{\b1\fscx150\shad0\bord0\fsp2\fs24\1c00AAAAAA}（高频娱乐）
@@ -36,36 +35,33 @@ Dialogue: 0,0:00:39.08,0:00:45.10,Default,,0,0,0,,{\b1\fscx150\shad0\bord0\fsp2\
 Dialogue: 0,0:00:49.02,0:00:52.03,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fs12}出品公司\N{\fs16\fsp2\fscy120\b1}A24影业
 Dialogue: 0,0:00:53.61,0:00:56.69,Default,,0,0,0,,{\pos(192,102)\1c00AAAAAA\fs12}出品公司\N{\fs16\fsp2\fscy120\b1}探戈娱乐\N高频娱乐\N大海滩公司
 Dialogue: 0,0:00:58.30,0:01:01.29,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fs12}制作公司\N{\fs16\fsp2\fscy120\b1}帕斯特尔公司
-
 Dialogue: 0,0:01:02.74,0:01:05.74,Default,,0,0,0,,{\pos(192,100)\1c00AAAAAA\fs12}字幕制作\N{\fs16\fscy120\b1}蒙 太 奇 字 幕 组\N{\fs9\fsp0}Telegram和IRC交流群：MontageSubs\N{\fs8}用 爱 发 电 {\1c000000FF\blur1\bord1\shad1\3c00FFFFFF}♥{\1c00AAAAAA\blur0\shad0\bord0\fs8}\h\hPowered by love
-
 Dialogue: 0,0:02:24.91,0:02:31.93,Default,,0,0,0,,{\pos(190,130)\1c00AAAAAA\fscy120\fsp1}“宝贝”相伴的时光
 Dialogue: 0,0:04:22.91,0:04:25.03,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 Ahoy源自17世纪海员打招呼】
-Dialogue: 0,0:06:05.33,0:06:09.55,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 电影《十二怒汉》（1957）】
+Dialogue: 0,0:06:05.33,0:06:09.55,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 电影《十二怒汉》（1957）陪审员辩证真相与偏见】
 Dialogue: 0,0:06:38.28,0:06:45.32,Default,,0,0,0,,{\pos(222,244)\1c00222222\frz-10\b1\fs22\fsp2\fscy200}《洛丽塔》
 Dialogue: 0,0:06:38.28,0:06:40.71,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 《洛丽塔》：纳博科夫（美籍俄裔）描绘未成年人性剥削的争议之作】
 Dialogue: 0,0:13:07.64,0:13:10.37,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 《小杜丽》：狄更斯（英）刻画阶级与贫困的辛辣作品】
 Dialogue: 0,0:14:32.06,0:14:34.85,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 西餐通常会把鱼刺和骨头去除后上桌】
 Dialogue: 0,0:18:13.61,0:18:15.47,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 {\fs15\fscx120\1c00FFFFFF}TA{\fs14\fscx100\1c00CCCCCC} 为中性代词】
 Dialogue: 0,0:20:27.54,0:20:32.75,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fscy120\fsp1}那桩噩事的时光
-Dialogue: 0,0:20:46.55,0:20:51.14,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 泰德·休斯：英国诗人，以强烈自然意象和原始神话力量著称】
-Dialogue: 0,0:22:04.17,0:22:08.83,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 向伯利恒跋涉》：散文家琼·狄迪恩（美）随笔，描绘60年代旧金山嬉皮士与反文化】
+Dialogue: 0,0:20:46.55,0:20:51.14,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 泰德·休斯：英国诗人 以强烈自然意象和原始神话力量著称】
+Dialogue: 0,0:22:04.17,0:22:08.83,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 《向伯利恒跋涉》：琼·狄迪恩(美)散文 描绘60年代旧金山嬉皮与反文化】
 Dialogue: 0,0:22:10.47,0:22:12.66,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 耶茨：指关注家庭生活的小说家理查德·耶茨（美）】
-Dialogue: 0,0:23:04.46,0:23:07.56,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 《反对阐释》：苏珊·桑塔格（美）散文，批判过度理论化 主张直接感受艺术】
+Dialogue: 0,0:23:04.46,0:23:07.56,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 《反对阐释》：苏珊·桑塔格（美）散文 批判过度理论化 主张直接感受艺术】
 Dialogue: 0,0:23:04.46,0:23:07.51,Default,,0,0,0,,{\pos(176,200)\fs10\b1\1c00AAAAAA\frz15}《反对阐释》
 Dialogue: 0,0:23:45.31,0:23:46.78,Default,,0,0,0,,{\an4\pos(120,156)\fs12\frz18\1c00AAAAAA}{\b1\fs13}教授 普雷斯顿·德克尔：{\b0\fs12}\N这写得真出类拔萃
 Dialogue: 0,0:23:46.78,0:23:49.78,Default,,0,0,0,,{\pos(150,56)\b1\fs12\frz18\1c00AAAAAA}教授 普雷斯顿·德克尔：
 Dialogue: 0,0:23:46.78,0:23:49.78,Default,,0,0,0,,{\pos(150,252)\1c00AAAAAA\b0\fs12\frz20}这写得真出类拔萃
 Dialogue: 0,0:24:54.65,0:24:57.93,Default,,0,0,0,,{\pos(310,140)\frz-1\1c00AAAAAA\fs16\b1}教授 普雷斯顿·德克尔\N{\fs14}英语系
-Dialogue: 0,0:28:19.40,0:28:23.34,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 《到灯塔去》：伍尔夫（英）1927年所著意识流小说，讲家庭、记忆和时间】
-Dialogue: 0,0:29:54.08,0:30:01.00,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 莫里森（美）小说《所罗门之歌》，讲述黑人家庭的寻根与自由】
+Dialogue: 0,0:28:19.40,0:28:23.34,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 《到灯塔去》：伍尔夫（英）1927年所著意识流小说 讲家庭、记忆和时间】
+Dialogue: 0,0:29:54.08,0:30:01.00,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 莫里森（美）小说《所罗门之歌》 讲述黑人家庭的寻根与自由】
 Dialogue: 0,0:30:21.99,0:30:45.26,Default,,0,0,0,,{\pos(306,184)\frz-18\1c00AAAAAA\fs16\b1}教授 普雷斯顿·德克尔\N{\fs14}英语系
 Dialogue: 0,0:49:17.51,0:49:19.30,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 开玩笑说她是耶稣化身】
 Dialogue: 0,0:51:15.61,0:51:17.76,Default,,0,0,0,,{\pos(200,270)\frz42\1c00AAAAAA\b1\fscy140\fs12}《乔凡尼的房间》
-Dialogue: 0,0:51:15.61,0:51:22.64,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 《乔凡尼的房间》：詹姆斯·鲍德温（美）所著小说，聚焦同性恋身份与孤独】
+Dialogue: 0,0:51:15.61,0:51:22.64,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 《乔凡尼的房间》：詹姆斯·鲍德温（美）所著小说 聚焦同性恋身份与孤独】
 Dialogue: 0,0:58:12.28,0:58:14.91,Default,,0,0,0,,{\pos(270,160)\fs10\1c00AAAAAA\b1\frz-2}批注 详细阐明？
-
-Dialogue: 0,0:59:02.99,0:59:09.33,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fscy120\fsp1}善问 恶问与自问的时光
+Dialogue: 0,0:59:02.99,0:59:09.27,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fscy120\fsp1}善问 恶问与自问的时光
 Dialogue: 0,0:59:36.28,0:59:39.79,Default,,0,0,0,,{\pos(106,188)\frz22\1c00AAAAAA\fs12\fsp2\b1}陪审员资格问卷表
 Dialogue: 0,0:59:36.28,0:59:39.79,Default,,0,0,0,,{\an4\pos(136,188)\frz22\1c00AAAAAA\fs12\b1}姓名：安尼丝·沃德\N年龄：28岁
 Dialogue: 0,0:59:48.24,0:59:57.32,Default,,0,0,0,,{\pos(100,192)\frz24\1c00AAAAAA\fs12\fsp2\b1}陪审员资格问卷表
@@ -73,23 +69,18 @@ Dialogue: 0,0:59:48.24,0:59:57.32,Default,,0,0,0,,{\pos(154,208)\frz24\1c00AAAAA
 Dialogue: 0,0:59:48.24,0:59:57.29,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 自我认同性别流动 非二元 偏女性】
 Dialogue: 0,1:00:31.33,1:00:34.66,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 证据使陪审员对被告有罪的怀疑不再合理】
 Dialogue: 0,1:05:17.96,1:05:24.13,Default,,0,0,0,,{\pos(190,130)\1c00AAAAAA\fscy120\fsp1}暖心三明治的时光
-Dialogue: 0,1:09:27.18,1:09:32.34,Default,,0,0,0,,{\pos(240,174)\b1\1c000022CC\shad0\bord0\fs10\frz1}批注 出类拔萃
+Dialogue: 0,1:09:27.18,1:09:32.26,Default,,0,0,0,,{\pos(240,174)\b1\1c000022CC\shad0\bord0\fs10\frz1}批注 出类拔萃
 Dialogue: 0,1:10:16.07,1:10:29.98,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 正在朗读《洛丽塔》第二部第32章】
 Dialogue: 0,1:10:30.38,1:10:36.57,Default,,0,0,0,,{\pos(186,282)\1c00AAAAAA\frz20\fry54\b1\fsp2}《洛丽塔》
 Dialogue: 0,1:28:05.59,1:28:11.42,Default,,0,0,0,,{\pos(190,130)\1c00AAAAAA\fscy120\fsp1}“宝贝”相伴的时光
-Dialogue: 0,1:29:44.31,1:29:48.50,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 简妮更女性，而简更中性，改名表明偏好中性命名】
-
+Dialogue: 0,1:29:44.31,1:29:48.50,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 简妮更女性 而简更中性 改名表明偏好中性命名】
 Dialogue: 0,1:37:02.23,1:37:06.68,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fscy120}对不起，宝贝
-
-Dialogue: 0,1:37:06.70,1:37:10.36,Default,,0,0,0,,{\an8\fs12\shad0.5\bord0.5\1c00AAAAAA}{\b1}蒙太奇字幕组{\b0} 原创翻译 转载须遵循CC BY-NC-SA 4.0协议\N{\fs10}翻译：小p 校对：Lei、小p 后期：novaeye\NTelegram和IRC交流群：MontageSubs
-
+Dialogue: 0,1:37:06.70,1:37:10.36,Default,,0,0,0,,{\an8\fs12\shad0.5\bord0.5\1c00AAAAAA}{\b1}蒙太奇字幕组{\b0} 原创制作 转载须遵循CC BY-NC-SA 4.0协议\N{\fs10}翻译：小p 校对：Lei、novaeye、小p 后期：novaeye\NTelegram和IRC交流群：MontageSubs
 Dialogue: 0,1:37:10.38,1:37:14.32,Default,,0,0,0,,{\pos(192,120)\1c00AAAAAA\fscy120}{\fs10}编\h\h剧\h\h\h\h兼\h\h\h\h导\h\h演\N{\fs16\fsp0}伊娃·维克托
 Dialogue: 0,1:37:14.35,1:37:18.28,Default,,0,0,0,,{\pos(192,104)\1c00AAAAAA\fscy120}{\fs10}制\h\h\h\h片\h\h\h\h人\N{\fs16\fsp0}阿黛尔·罗曼斯基\N马克·切里亚克\N巴里·詹金斯
-
 Dialogue: 0,1:37:46.03,1:37:49.98,Default,,0,0,0,,{\pos(192,120)\1c00AAAAAA\fscy120}{\fs10}摄\h\h\h\h影\N{\fs16\fsp0}米娅·乔菲·亨利
 Dialogue: 0,1:37:53.97,1:37:57.91,Default,,0,0,0,,{\pos(192,110)\1c00AAAAAA\fscy120}{\fs10}剪\h\h\h\h辑\N{\fs16\fsp0}艾历克斯·奥洛林\N兰迪·阿特金斯
 Dialogue: 0,1:38:01.90,1:38:05.84,Default,,0,0,0,,{\pos(192,120)\1c00AAAAAA\fscy120}{\fs10}配\h\h\h\h乐\N{\fs16\fsp0}莉亚·欧阳·鲁斯李（李明德）
-
 Dialogue: 0,1:38:13.77,1:38:17.68,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fscy120}{\fs10}主\h\h\h\h演\N{\fs16}伊娃·维克托\h\h{\fs10}饰\h\h{\fs16}安尼丝
 Dialogue: 0,1:38:17.70,1:38:21.68,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fscy120}{\fs10}主\h\h\h\h演\N{\fs16}娜奥米·阿基\h\h{\fs10}饰\h\h{\fs16}闺蜜莉迪
 Dialogue: 0,1:38:21.71,1:38:25.62,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fscy120}{\fs10}主\h\h\h\h演\N{\fs16}路易斯·坎瑟米\h\h{\fs10}饰\h\h{\fs16}教授德克尔
@@ -98,15 +89,12 @@ Dialogue: 0,1:38:29.62,1:38:33.59,Default,,0,0,0,,{\pos(192,104)\1c00AAAAAA\fscy
 Dialogue: 0,1:38:29.62,1:38:33.59,Default,,0,0,0,,{\pos(192,124)\1c00AAAAAA\fscy120}{\fs16}E. R.·费特迈斯特\h\h{\fs10}饰\h\h{\fs16}莉迪配偶弗兰
 Dialogue: 0,1:38:33.61,1:38:37.53,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fscy120}{\fs10}主\h\h\h\h演\N{\fs16}卢卡斯·赫奇斯\h\h{\fs10}饰\h\h{\fs16}邻居盖文
 Dialogue: 0,1:38:37.55,1:38:41.47,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fscy120}{\fs10}主\h\h\h\h演\N{\fs16}约翰·卡洛·林奇\h\h{\fs10}饰\h\h{\fs16}三明治店老板皮特
-
 Dialogue: 0,1:42:23.24,1:42:28.62,Default,,0,0,0,,{\move(192,250,192,130)\fs12\1c00CCCCCC\fsp2}本故事纯属虚构 如有雷同实属巧合
-Dialogue: 0,1:42:30.00,1:42:41.46,Default,,0,0,0,,{\move(192,270,192,5)\fs26\b1\1c00EEEEEE\fsp2}《对不起，宝贝》
-
-
+Dialogue: 0,1:42:30.00,1:42:41.46,Default,,0,0,0,,{\move(192,270,192,5)\fs26\b1\1c00EEEEEE\fsp2}对不起，宝贝
 Dialogue: 0,0:01:56.13,0:01:57.24,Default,,0,0,0,,天呐 你终于到了\N{\rEng}Oh, my God! Hi!
 Dialogue: 0,0:01:57.26,0:01:58.53,Default,,0,0,0,,我去 冷死我了\N{\rEng}Fuck, it's fucking cold!
 Dialogue: 0,0:01:58.56,0:01:59.65,Default,,0,0,0,,啊 啊 啊\N{\rEng}Ahhh!
-Dialogue: 0,0:02:01.14,0:02:02.27,Default,,0,0,0,,- 你终于来了 - 我来了 \N{\rEng}- You made it! - I made it!
+Dialogue: 0,0:02:01.14,0:02:02.27,Default,,0,0,0,,- 终于来了 - 终于来了 \N{\rEng}- You made it! - I made it!
 Dialogue: 0,0:02:02.35,0:02:03.25,Default,,0,0,0,,我想死你了\N{\rEng}I missed you!
 Dialogue: 0,0:02:03.27,0:02:04.58,Default,,0,0,0,,- 天呐 我也想你 超想你 - 耶 \N{\rEng}- Oh, my God, I missed you, I missed you! - Yay!
 Dialogue: 0,0:02:04.60,0:02:06.23,Default,,0,0,0,,搭把手 冷死我了\N{\rEng}Help me, it's fucking cold!
@@ -229,7 +217,7 @@ Dialogue: 0,0:07:36.66,0:07:38.68,Default,,0,0,0,,- 很高兴见到你 莉迪 - 
 Dialogue: 0,0:07:39.71,0:07:41.07,Default,,0,0,0,,他真可爱\N{\rEng}He's cute.
 Dialogue: 0,0:07:41.14,0:07:42.67,Default,,0,0,0,,- 他？- 你找他来上床的 \N{\rEng}- Who? - You're fucking him.
 Dialogue: 0,0:07:42.71,0:07:43.75,Default,,0,0,0,,不 才没有\N{\rEng}No, I'm not.
-Dialogue: 0,0:07:43.81,0:07:45.84,Default,,0,0,0,,- 把邻居找来上床的 - 不 没这事儿 - You're fucking your neighbor. - No, I'm not.
+Dialogue: 0,0:07:43.81,0:07:45.84,Default,,0,0,0,,- 把邻居找来上床的 - 不 没这事儿 \N{\rEng}- You're fucking your neighbor. - No, I'm not.
 Dialogue: 0,0:07:45.86,0:07:47.74,Default,,0,0,0,,你想和邻居盖文上床\N{\rEng}You're fucking your neighbor named Gavin.
 Dialogue: 0,0:07:48.11,0:07:49.24,Default,,0,0,0,,是你想吧\N{\rEng}You are.
 Dialogue: 0,0:07:49.40,0:07:51.45,Default,,0,0,0,,才不是 才不是\N{\rEng}I'm not. I'm not.
@@ -243,7 +231,7 @@ Dialogue: 0,0:08:36.09,0:08:37.68,Default,,0,0,0,,哦 你身材很棒\N{\rEng}Oh
 Dialogue: 0,0:08:37.76,0:08:38.76,Default,,0,0,0,,哦 谢谢\N{\rEng}Oh, thank you.
 Dialogue: 0,0:08:38.79,0:08:41.25,Default,,0,0,0,,但 呃 我不是那个意思\N{\rEng}But, um, I didn't mean it like that.
 Dialogue: 0,0:08:41.27,0:08:42.44,Default,,0,0,0,,好\N{\rEng}Okay...
-Dialogue: 0,0:08:44.14,0:08:48.31,Default,,0,0,0,,我肚子里有个孩子\N{\rEng}So I have a baby in me.
+Dialogue: 0,0:08:44.14,0:08:48.31,Default,,0,0,0,,我肚子里有个宝宝\N{\rEng}So I have a baby in me.
 Dialogue: 0,0:08:50.52,0:08:52.23,Default,,0,0,0,,- 怀了？ - 是啊 \N{\rEng}- You do? - Yeah.
 Dialogue: 0,0:08:52.35,0:08:54.40,Default,,0,0,0,,什么？现在就怀了吗？\N{\rEng}What? Right now?
 Dialogue: 0,0:08:54.42,0:08:55.66,Default,,0,0,0,,现在\N{\rEng}Right now.
@@ -423,7 +411,7 @@ Dialogue: 0,0:16:40.21,0:16:42.37,Default,,0,0,0,,那我也回敬你一句\N{\rE
 Dialogue: 0,0:16:42.56,0:16:44.42,Default,,0,0,0,,你也别想着去死\N{\rEng}You please don't die.
 Dialogue: 0,0:16:50.06,0:16:51.14,Default,,0,0,0,,莉迪...\N{\rEng}Lydie...
 Dialogue: 0,0:16:52.61,0:16:54.42,Default,,0,0,0,,你怀了个小宝宝\N{\rEng}You're having a little baby.
-Dialogue: 0,0:16:56.43,0:16:57.51,Default,,0,0,0,,我知道\N{\rEng}I know.
+Dialogue: 0,0:16:56.43,0:16:57.51,Default,,0,0,0,,对\N{\rEng}I know.
 Dialogue: 0,0:16:59.45,0:17:02.59,Default,,0,0,0,,你会把宝宝照顾得很好\N{\rEng}You're gonna take such good care of your little baby.
 Dialogue: 0,0:17:04.66,0:17:05.55,Default,,0,0,0,,我不会死的\N{\rEng}I won't die.
 Dialogue: 0,0:17:05.57,0:17:06.48,Default,,0,0,0,,求你别死\N{\rEng}Please don't die.
@@ -904,12 +892,12 @@ Dialogue: 0,0:53:09.90,0:53:13.01,Default,,0,0,0,,家里有烤肠吗？\N{\rEng}
 Dialogue: 0,0:53:14.18,0:53:15.99,Default,,0,0,0,,不知道\N{\rEng}I don't know.
 Dialogue: 0,0:54:30.58,0:54:31.62,Default,,0,0,0,,嗨\N{\rEng}Hi.
 Dialogue: 0,0:54:38.13,0:54:40.81,Default,,0,0,0,,好 我要去买咖啡\N{\rEng}Okay. I'm going to get coffee.
-Dialogue: 0,0:54:44.64,0:54:46.77,Default,,0,0,0,,要抱你一起去吗？\N{\rEng}Do you want me to pick you up?
+Dialogue: 0,0:54:44.64,0:54:46.77,Default,,0,0,0,,我能抱你吗？\N{\rEng}Do you want me to pick you up?
 Dialogue: 0,0:54:55.91,0:54:58.12,Default,,0,0,0,,哦 天哪\N{\rEng}Well, fuck.
 Dialogue: 0,0:54:58.51,0:55:01.81,Default,,0,0,0,,太美好了\N{\rEng}This is really nice.
 Dialogue: 0,0:55:03.37,0:55:04.85,Default,,0,0,0,,我想...\N{\rEng}I guess um...
 Dialogue: 0,0:55:05.67,0:55:08.02,Default,,0,0,0,,对 我爱你\N{\rEng}Yup. I love you.
-Dialogue: 0,0:55:12.66,0:55:15.20,Default,,0,0,0,,要陪我买咖啡吗？\N{\rEng}You wanna come get coffee?
+Dialogue: 0,0:55:12.66,0:55:15.20,Default,,0,0,0,,愿意陪我买咖啡吗？\N{\rEng}You wanna come get coffee?
 Dialogue: 0,0:55:15.92,0:55:17.85,Default,,0,0,0,,三文鱼罐头？\N{\rEng}Salmon.
 Dialogue: 0,0:55:18.42,0:55:22.46,Default,,0,0,0,,好吧 挺挑食的 有品位\N{\rEng}All right, you're picky, an excellent quality.
 Dialogue: 0,0:55:22.51,0:55:23.80,Default,,0,0,0,,金枪鱼的？\N{\rEng}Tuna.
@@ -966,7 +954,7 @@ Dialogue: 0,1:01:11.73,1:01:15.53,Default,,0,0,0,,根据事实可以做出的合
 Dialogue: 0,1:01:15.55,1:01:17.60,Default,,0,0,0,,沃瓜德先生 能明白吗\N{\rEng}Does this make sense, Mr. Woguard?
 Dialogue: 0,1:01:17.62,1:01:18.74,Default,,0,0,0,,明白\N{\rEng}Yes.
 Dialogue: 0,1:01:18.86,1:01:21.45,Default,,0,0,0,,要是有其他孩子跑来告诉您\N{\rEng}And if instead another child ran over to you
-Dialogue: 0,1:01:21.48,1:01:24.87,Default,,0,0,0,,说他看见她怎么摔的\N{\rEng}and told you he saw her fall off the monkey bars,
+Dialogue: 0,1:01:21.48,1:01:24.87,Default,,0,0,0,,说看见她怎么摔的\N{\rEng}and told you he saw her fall off the monkey bars,
 Dialogue: 0,1:01:24.91,1:01:28.81,Default,,0,0,0,,有人目击 这就是直接证词\N{\rEng}that's direct testimony because someone witnessed it.
 Dialogue: 0,1:01:28.83,1:01:31.23,Default,,0,0,0,,大家能明白\N{\rEng}Does everybody understand that difference,
 Dialogue: 0,1:01:31.25,1:01:34.82,Default,,0,0,0,,间接证据和直接证词的区别吗？\N{\rEng}between circumstantial evidence and direct testimony?
@@ -1351,12 +1339,12 @@ Dialogue: 0,1:26:45.81,1:26:49.72,Default,,0,0,0,,只想让莉迪住近点\N{\rE
 Dialogue: 0,1:26:50.11,1:26:52.74,Default,,0,0,0,,但我看不见\N{\rEng}but I don't see it.
 Dialogue: 0,1:26:54.77,1:26:56.13,Default,,0,0,0,,看什么？\N{\rEng}See it where?
 Dialogue: 0,1:26:56.15,1:26:58.67,Default,,0,0,0,,看不见那种未来\N{\rEng}Like, in my head.
-Dialogue: 0,1:26:59.19,1:27:03.57,Default,,0,0,0,,我看不见自己变老 也看不见有孩子\N{\rEng}I don't see myself getting older or having kids.
+Dialogue: 0,1:26:59.19,1:27:03.57,Default,,0,0,0,,我看不见自己变老 看不见有孩子\N{\rEng}I don't see myself getting older or having kids.
 Dialogue: 0,1:27:04.04,1:27:06.51,Default,,0,0,0,,也看不见自己\N{\rEng}I don't see myself.
 Dialogue: 0,1:27:07.74,1:27:09.92,Default,,0,0,0,,你会是个好妈妈的\N{\rEng}I think you'd be a great mom.
 Dialogue: 0,1:27:11.70,1:27:12.87,Default,,0,0,0,,为什么？\N{\rEng}Why?
 Dialogue: 0,1:27:14.08,1:27:15.77,Default,,0,0,0,,你人很好\N{\rEng}You're very nice.
-Dialogue: 0,1:27:19.00,1:27:20.34,Default,,0,0,0,,我没那么好\N{\rEng}I'm not that nice.
+Dialogue: 0,1:27:19.00,1:27:20.34,Default,,0,0,0,,没那么好啦\N{\rEng}I'm not that nice.
 Dialogue: 0,1:27:25.30,1:27:27.89,Default,,0,0,0,,人们开始都说不要孩子\N{\rEng}People always say they don't want a kid,
 Dialogue: 0,1:27:28.00,1:27:30.49,Default,,0,0,0,,但想法最终会变\N{\rEng}but then things change.
 Dialogue: 0,1:27:31.70,1:27:34.08,Default,,0,0,0,,我们想要的事情...\N{\rEng}What we want and stuff...
@@ -1378,7 +1366,7 @@ Dialogue: 0,1:28:50.38,1:28:51.54,Default,,0,0,0,,当然\N{\rEng}Definitely.
 Dialogue: 0,1:28:52.49,1:28:53.82,Default,,0,0,0,,来吧 宝贝...\N{\rEng}All right, sweetie...
 Dialogue: 0,1:28:53.85,1:28:54.91,Default,,0,0,0,,你高兴我们来吗？\N{\rEng}So, you're glad you came?
 Dialogue: 0,1:28:54.94,1:28:57.46,Default,,0,0,0,,我超 超 超 超高兴的\N{\rEng}I'm so, so, so, so glad.
-Dialogue: 0,1:28:57.49,1:29:00.16,Default,,0,0,0,,现在懂了 生孩子时候那地方会炸裂\N{\rEng}And now I know what an exploding vagina looks like.
+Dialogue: 0,1:28:57.49,1:29:00.16,Default,,0,0,0,,现在懂了 原来生孩子时阴道会炸裂\N{\rEng}And now I know what an exploding vagina looks like.
 Dialogue: 0,1:29:00.18,1:29:01.84,Default,,0,0,0,,嗯哼\N{\rEng}Mhmm.
 Dialogue: 0,1:29:01.87,1:29:03.98,Default,,0,0,0,,- 坦白说吧 - 嗯？ \N{\rEng}- So be honest. - Mhmm.
 Dialogue: 0,1:29:04.55,1:29:05.86,Default,,0,0,0,,你喜欢她吗？\N{\rEng}Do you like her?
@@ -1390,11 +1378,11 @@ Dialogue: 0,1:29:14.49,1:29:16.23,Default,,0,0,0,,废话 安尼丝 你俩我都�
 Dialogue: 0,1:29:16.25,1:29:16.74,Default,,0,0,0,,好\N{\rEng}Cool.
 Dialogue: 0,1:29:16.77,1:29:18.22,Default,,0,0,0,,- 莉迪？ - 在 \N{\rEng}- Lydie? - Yeah?
 Dialogue: 0,1:29:18.24,1:29:21.08,Default,,0,0,0,,- 宝贝 帮我抱下宝宝吧 - 好 来了 \N{\rEng}- Babe, will you grab the baby? - Yeah, of course. One second.
-Dialogue: 0,1:29:21.12,1:29:21.79,Default,,0,0,0,,- 嘿 - 嗨 - Hey. - Hi.
+Dialogue: 0,1:29:21.12,1:29:21.79,Default,,0,0,0,,- 嘿 - 嗨\N{\rEng}- Hey. - Hi.
 Dialogue: 0,1:29:21.81,1:29:23.61,Default,,0,0,0,,- 要我帮忙拿吗？ - 没事 不用 \N{\rEng}- You need help with the stuff? - No, no, no.
 Dialogue: 0,1:29:23.63,1:29:24.84,Default,,0,0,0,,- 好 - 来 \N{\rEng}- Okay. - Hi.
 Dialogue: 0,1:29:26.23,1:29:27.79,Default,,0,0,0,,- 可好呀 - 好 \N{\rEng}- Hi. - Hi.
-Dialogue: 0,1:29:28.95,1:29:29.99,Default,,0,0,0,,你这儿不错\N{\rEng}Look at this.
+Dialogue: 0,1:29:28.95,1:29:29.99,Default,,0,0,0,,这儿真不错\N{\rEng}Look at this.
 Dialogue: 0,1:29:30.01,1:29:31.17,Default,,0,0,0,,哦 我来拿一个\N{\rEng}Oh, let me grab one.
 Dialogue: 0,1:29:31.19,1:29:33.53,Default,,0,0,0,,不用 我就爱拎包\N{\rEng}No, I love holding them.
 Dialogue: 0,1:29:34.05,1:29:36.50,Default,,0,0,0,,那么 你...哦 看\N{\rEng}So, are you... oh, yes.
@@ -1440,7 +1428,7 @@ Dialogue: 0,1:31:35.20,1:31:36.45,Default,,0,0,0,,灯塔很浪漫的\N{\rEng}The
 Dialogue: 0,1:31:36.47,1:31:38.36,Default,,0,0,0,,就该你俩去\N{\rEng}You two should be there alone together.
 Dialogue: 0,1:31:38.38,1:31:40.80,Default,,0,0,0,,再造个宝宝什么的\N{\rEng}Make another baby or whatever.
 Dialogue: 0,1:31:40.82,1:31:43.06,Default,,0,0,0,,就二十分钟 很快的\N{\rEng}Like, twenty minutes, that's it.
-Dialogue: 0,1:31:43.08,1:31:45.80,Default,,0,0,0,,问一下 她不会把我吃了吧？\N{\rEng}One question. What if she kills me?
+Dialogue: 0,1:31:43.08,1:31:45.80,Default,,0,0,0,,问一下 她不会把我吃了？\N{\rEng}One question. What if she kills me?
 Dialogue: 0,1:31:45.82,1:31:47.68,Default,,0,0,0,,她不吃人\N{\rEng}She's not gonna kill you.
 Dialogue: 0,1:31:55.03,1:31:56.07,Default,,0,0,0,,嘿...\N{\rEng}Hey...
 Dialogue: 0,1:31:57.36,1:31:59.37,Default,,0,0,0,,别抱掉了\N{\rEng}Don't drop her.
@@ -1449,7 +1437,7 @@ Dialogue: 0,1:32:07.50,1:32:08.62,Default,,0,0,0,,好...\N{\rEng}Okay...
 Dialogue: 0,1:32:09.64,1:32:10.89,Default,,0,0,0,,好了\N{\rEng}Okay.
 Dialogue: 0,1:32:11.71,1:32:12.71,Default,,0,0,0,,好的\N{\rEng}Okay.
 Dialogue: 0,1:32:14.38,1:32:15.51,Default,,0,0,0,,谢谢\N{\rEng}Thank you.
-Dialogue: 0,1:32:16.88,1:32:18.31,Default,,0,0,0,,来盖好\N{\rEng}Here you go.
+Dialogue: 0,1:32:16.88,1:32:18.66,Default,,0,0,0,,给你小兔兔\N{\rEng}Here you go.
 Dialogue: 0,1:32:19.63,1:32:21.13,Default,,0,0,0,,太谢谢了\N{\rEng}Thank you.
 Dialogue: 0,1:32:22.15,1:32:23.80,Default,,0,0,0,,- 给你 宝贝 - 谢谢 \N{\rEng}- Here you go, babe. - Thank you.
 Dialogue: 0,1:32:23.85,1:32:24.85,Default,,0,0,0,,莉迪？\N{\rEng}Lydie?
@@ -1464,11 +1452,11 @@ Dialogue: 0,1:33:16.20,1:33:18.55,Default,,0,0,0,,别介意 你现在真有点�
 Dialogue: 0,1:33:18.57,1:33:21.39,Default,,0,0,0,,光溜溜 头发很少\N{\rEng}Skin and just a small amount of hair.
 Dialogue: 0,1:33:22.68,1:33:24.09,Default,,0,0,0,,别担心\N{\rEng}Don't worry.
 Dialogue: 0,1:33:25.08,1:33:26.91,Default,,0,0,0,,很快会变样的\N{\rEng}It won't be like that in a little.
-Dialogue: 0,1:33:32.97,1:33:35.80,Default,,0,0,0,,抱你可以吗？\N{\rEng}Is this okay or...
-Dialogue: 0,1:33:49.49,1:33:50.70,Default,,0,0,0,,好的\N{\rEng}All right.
-Dialogue: 0,1:33:51.85,1:33:53.41,Default,,0,0,0,,这就把你放下\N{\rEng}I'll put you down.
-Dialogue: 0,1:33:53.44,1:33:55.19,Default,,0,0,0,,哦 那就再抱起来\N{\rEng}Oh. I'll pick you back up.
-Dialogue: 0,1:33:55.58,1:33:57.09,Default,,0,0,0,,来了 来了 来了\N{\rEng}Okay, okay, okay.
+Dialogue: 0,1:33:32.97,1:33:35.80,Default,,0,0,0,,能抱抱你吗？\N{\rEng}Is this okay or...
+Dialogue: 0,1:33:49.49,1:33:50.70,Default,,0,0,0,,行\N{\rEng}All right.
+Dialogue: 0,1:33:51.85,1:33:53.41,Default,,0,0,0,,不抱了\N{\rEng}I'll put you down.
+Dialogue: 0,1:33:53.44,1:33:55.56,Default,,0,0,0,,想要啊 那就再抱起来\N{\rEng}Oh. I'll pick you back up.
+Dialogue: 0,1:33:55.58,1:33:57.09,Default,,0,0,0,,抱了 抱了 抱了\N{\rEng}Okay, okay, okay.
 Dialogue: 0,1:34:22.22,1:34:23.83,Default,,0,0,0,,你长得真漂亮\N{\rEng}You're so sweet looking.
 Dialogue: 0,1:34:39.18,1:34:43.88,Default,,0,0,0,,等你长大后 不管什么想法...\N{\rEng}When you grow up, you can tell me whatever.
 Dialogue: 0,1:34:44.78,1:34:49.67,Default,,0,0,0,,都可以告诉我 哪怕是个坏念头\N{\rEng}Like, if you have a thought and you're like, that's a bad thought,
