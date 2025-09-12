@@ -37,7 +37,7 @@ Dialogue: 0,0:00:49.02,0:00:52.03,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fs12
 Dialogue: 0,0:00:53.61,0:00:56.69,Default,,0,0,0,,{\pos(192,102)\1c00AAAAAA\fs12}出品公司\N{\fs16\fsp2\fscy120\b1}探戈娱乐\N高频娱乐\N大海滩公司
 Dialogue: 0,0:00:58.30,0:01:01.29,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fs12}制作公司\N{\fs16\fsp2\fscy120\b1}帕斯特尔公司
 
-Dialogue: 0,0:01:02.74,0:01:05.74,Default,,0,0,0,,{\pos(192,100)\1c00AAAAAA\fs12}字幕制作\N{\fs16\fsp2\fscy120\b1}蒙太奇字幕组\N{\fs9\fsp0}Telegram和IRC交流群：MontageSubs
+Dialogue: 0,0:01:02.74,0:01:05.74,Default,,0,0,0,,{\pos(192,100)\1c00AAAAAA\fs12}字幕制作\N{\fs16\fscy120\b1}蒙 太 奇 字 幕 组\N{\fs9\fsp0}Telegram和IRC交流群：MontageSubs\N{\fs8}用 爱 发 电 {\1c000000FF\blur1\bord1\shad1\3c00FFFFFF}♥{\1c00AAAAAA\blur0\shad0\bord0\fs8}\h\hPowered by love
 
 Dialogue: 0,0:02:24.91,0:02:31.93,Default,,0,0,0,,{\pos(190,130)\1c00AAAAAA\fscy120\fsp1}“宝贝”相伴的时光
 Dialogue: 0,0:04:22.91,0:04:25.03,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 Ahoy源自17世纪海员打招呼】
