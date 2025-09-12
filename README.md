@@ -42,38 +42,34 @@
 
 <h1 id="字幕下载">⬇️ 字幕下载</h1>
 
-<!--
+
 <table>
   <tr>
     <th>字幕库</th>
     <th>SubHD</th>
-    <th>射手网(伪)</th>
-    <th>OpenSubtitles</th>
+    <th>OpenSubtitles ass格式</th>
+    <th>OpenSubtitles srt 格式</th>
   </tr>
   <tr>
     <td><a href="https://zimuku.org/detail/218189.html"><img src="https://zimuku.org/favicon.png" alt="字幕库" width="24" height="24"/></a></td>
     <td><a href="https://subhd.tv/a/595598"><img src="https://img.subhd.tv/files/favicon-32x32.png" alt="SubHD" width="24" height="24"/></a></td>
-    <td><a href="https://assrt.net"><img src="https://2.assrt.net/favicon.ico" alt="射手网(伪)" width="24" height="24"/></a></td>
-    <td><a href="https://opensubtitles.org"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles" width="24" height="24"/></a></td>
+    <td><a href="https://www.opensubtitles.org/en/subtitles/13271330/sorry-baby-zh"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles ass" width="24" height="24"/></a></td>
+    <td><a href="https://www.opensubtitles.org/en/subtitles/13271335/sorry-baby-zh"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles srt" width="24" height="24"/></a></td>
   </tr>
 </table>
--->
 
 <h2 id="字幕进度">⏳ 字幕进度</h2>
 
 - [X] 时间轴(100%)
 - [X] 翻译 (100%)
-- [ ] 校对(95%)
-- [ ] 特效(5%)
-- [ ] 发布(0%)
+- [X] 校对(100%)
+- [X] 特效(100%)
+- [ ] 发布(50%)
 
 <details>
 <summary id="待办事项">📝 待办事项</summary>
 
-校对
-
-特效制作
-
+- 暂无公开待办列表
 
 </details>
 
