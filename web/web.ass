@@ -35,7 +35,7 @@ Dialogue: 0,0:00:39.08,0:00:45.10,Default,,0,0,0,,{\b1\fscx150\shad0\bord0\fsp2\
 Dialogue: 0,0:00:49.02,0:00:52.03,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fs12}出品公司\N{\fs16\fsp2\fscy120\b1}A24影业
 Dialogue: 0,0:00:53.61,0:00:56.69,Default,,0,0,0,,{\pos(192,102)\1c00AAAAAA\fs12}出品公司\N{\fs16\fsp2\fscy120\b1}探戈娱乐\N高频娱乐\N大海滩公司
 Dialogue: 0,0:00:58.30,0:01:01.29,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fs12}制作公司\N{\fs16\fsp2\fscy120\b1}帕斯特尔公司
-Dialogue: 0,0:01:02.74,0:01:05.74,Default,,0,0,0,,{\pos(192,100)\1c00AAAAAA\fs12}字幕制作\N{\fs16\fscy120\b1}蒙 太 奇 字 幕 组\N{\fs9\fsp0}Telegram和IRC交流群：MontageSubs\N{\fs8}用 爱 发 电 {\1c000000FF\blur1\bord1\shad1\3c00FFFFFF}♥{\1c00AAAAAA\blur0\shad0\bord0\fs8}\h\hPowered by love
+Dialogue: 0,0:01:02.74,0:01:05.74,Default,,0,0,0,,{\pos(192,100)\1c00AAAAAA\fs12}字幕制作\N{\fs16\fscy120\b1}蒙 太 奇 字 幕 组\N{\fs8}用 爱 发 电 {\1c000000FF\blur1\bord1\shad1\3c00FFFFFF}♥{\1c00AAAAAA\blur0\shad0\bord0\fs8}\h\hPowered by love
 Dialogue: 0,0:02:24.91,0:02:31.93,Default,,0,0,0,,{\pos(190,130)\1c00AAAAAA\fscy120\fsp1}“宝贝”相伴的时光
 Dialogue: 0,0:04:22.91,0:04:25.03,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 Ahoy源自17世纪海员打招呼】
 Dialogue: 0,0:06:05.33,0:06:09.55,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 电影《十二怒汉》（1957）陪审员辩证真相与偏见】
@@ -75,7 +75,7 @@ Dialogue: 0,1:10:30.38,1:10:36.57,Default,,0,0,0,,{\pos(186,282)\1c00AAAAAA\frz2
 Dialogue: 0,1:28:05.59,1:28:11.42,Default,,0,0,0,,{\pos(190,130)\1c00AAAAAA\fscy120\fsp1}“宝贝”相伴的时光
 Dialogue: 0,1:29:44.31,1:29:48.50,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 简妮更女性 而简更中性 改名表明偏好中性命名】
 Dialogue: 0,1:37:02.23,1:37:06.68,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fscy120}对不起，宝贝
-Dialogue: 0,1:37:06.70,1:37:10.36,Default,,0,0,0,,{\an8\fs12\shad0.5\bord0.5\1c00AAAAAA}{\b1}蒙太奇字幕组{\b0} 原创制作 转载须遵循CC BY-NC-SA 4.0协议\N{\fs10}翻译：小p 校对：Lei、novaeye、小p 后期：novaeye\NTelegram和IRC交流群：MontageSubs
+Dialogue: 0,1:37:06.70,1:37:10.36,Default,,0,0,0,,{\an8\fs12\shad0.5\bord0.5\1c00AAAAAA}{\b1}蒙太奇字幕组{\b0} 原创译制 转载须遵循CC BY-NC-SA 4.0协议\N{\fs10}翻译：小p 校对：Lei、novaeye、小p 后期：novaeye\NTelegram和IRC交流群：MontageSubs
 Dialogue: 0,1:37:10.38,1:37:14.32,Default,,0,0,0,,{\pos(192,120)\1c00AAAAAA\fscy120}{\fs10}编\h\h剧\h\h\h\h兼\h\h\h\h导\h\h演\N{\fs16\fsp0}伊娃·维克托
 Dialogue: 0,1:37:14.35,1:37:18.28,Default,,0,0,0,,{\pos(192,104)\1c00AAAAAA\fscy120}{\fs10}制\h\h\h\h片\h\h\h\h人\N{\fs16\fsp0}阿黛尔·罗曼斯基\N马克·切里亚克\N巴里·詹金斯
 Dialogue: 0,1:37:46.03,1:37:49.98,Default,,0,0,0,,{\pos(192,120)\1c00AAAAAA\fscy120}{\fs10}摄\h\h\h\h影\N{\fs16\fsp0}米娅·乔菲·亨利
@@ -91,6 +91,7 @@ Dialogue: 0,1:38:33.61,1:38:37.53,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fscy
 Dialogue: 0,1:38:37.55,1:38:41.47,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fscy120}{\fs10}主\h\h\h\h演\N{\fs16}约翰·卡洛·林奇\h\h{\fs10}饰\h\h{\fs16}三明治店老板皮特
 Dialogue: 0,1:42:23.24,1:42:28.62,Default,,0,0,0,,{\move(192,250,192,130)\fs12\1c00CCCCCC\fsp2}本故事纯属虚构 如有雷同实属巧合
 Dialogue: 0,1:42:30.00,1:42:41.46,Default,,0,0,0,,{\move(192,270,192,5)\fs26\b1\1c00EEEEEE\fsp2}对不起，宝贝
+Dialogue: 0,1:42:55.51,1:42:59.07,Default,,0,0,0,,{\b1\fscx150\shad0\bord0\fsp2\fs24\1c00AAAAAA}（A24影业）
 Dialogue: 0,0:01:56.13,0:01:57.24,Default,,0,0,0,,天呐 你终于到了\N{\rEng}Oh, my God! Hi!
 Dialogue: 0,0:01:57.26,0:01:58.53,Default,,0,0,0,,我去 冷死我了\N{\rEng}Fuck, it's fucking cold!
 Dialogue: 0,0:01:58.56,0:01:59.65,Default,,0,0,0,,啊 啊 啊\N{\rEng}Ahhh!
@@ -893,7 +894,7 @@ Dialogue: 0,0:53:14.18,0:53:15.99,Default,,0,0,0,,不知道\N{\rEng}I don't know
 Dialogue: 0,0:54:30.58,0:54:31.62,Default,,0,0,0,,嗨\N{\rEng}Hi.
 Dialogue: 0,0:54:38.13,0:54:40.81,Default,,0,0,0,,好 我要去买咖啡\N{\rEng}Okay. I'm going to get coffee.
 Dialogue: 0,0:54:44.64,0:54:46.77,Default,,0,0,0,,我能抱你吗？\N{\rEng}Do you want me to pick you up?
-Dialogue: 0,0:54:55.91,0:54:58.12,Default,,0,0,0,,哦 天哪\N{\rEng}Well, fuck.
+Dialogue: 0,0:54:55.91,0:54:58.12,Default,,0,0,0,,哦 天呐\N{\rEng}Well, fuck.
 Dialogue: 0,0:54:58.51,0:55:01.81,Default,,0,0,0,,太美好了\N{\rEng}This is really nice.
 Dialogue: 0,0:55:03.37,0:55:04.85,Default,,0,0,0,,我想...\N{\rEng}I guess um...
 Dialogue: 0,0:55:05.67,0:55:08.02,Default,,0,0,0,,对 我爱你\N{\rEng}Yup. I love you.
@@ -1377,7 +1378,7 @@ Dialogue: 0,1:29:12.66,1:29:14.47,Default,,0,0,0,,你还喜欢我吧？\N{\rEng}
 Dialogue: 0,1:29:14.49,1:29:16.23,Default,,0,0,0,,废话 安尼丝 你俩我都爱\N{\rEng}Yes, Agnes. I love you both.
 Dialogue: 0,1:29:16.25,1:29:16.74,Default,,0,0,0,,好\N{\rEng}Cool.
 Dialogue: 0,1:29:16.77,1:29:18.22,Default,,0,0,0,,- 莉迪？ - 在 \N{\rEng}- Lydie? - Yeah?
-Dialogue: 0,1:29:18.24,1:29:21.08,Default,,0,0,0,,- 宝贝 帮我抱下宝宝吧 - 好 来了 \N{\rEng}- Babe, will you grab the baby? - Yeah, of course. One second.
+Dialogue: 0,1:29:18.24,1:29:21.08,Default,,0,0,0,,- 宝贝 帮我抱下宝宝吧 - 好 回来聊 \N{\rEng}- Babe, will you grab the baby? - Yeah, of course. One second.
 Dialogue: 0,1:29:21.12,1:29:21.79,Default,,0,0,0,,- 嘿 - 嗨\N{\rEng}- Hey. - Hi.
 Dialogue: 0,1:29:21.81,1:29:23.61,Default,,0,0,0,,- 要我帮忙拿吗？ - 没事 不用 \N{\rEng}- You need help with the stuff? - No, no, no.
 Dialogue: 0,1:29:23.63,1:29:24.84,Default,,0,0,0,,- 好 - 来 \N{\rEng}- Okay. - Hi.
