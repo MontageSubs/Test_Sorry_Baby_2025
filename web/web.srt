@@ -6866,7 +6866,7 @@ Like, twenty minutes, that's it.
 
 1382
 01:31:43,080 --> 01:31:45,800
-问一下 她不会把我吃了？
+问一下 她会不会把我吃了？
 One question. What if she kills me?
 
 1383
@@ -7041,12 +7041,12 @@ I'll never be scared by that.
 
 1417
 01:35:07,680 --> 01:35:11,060
-如果有人对你做了桩噩事...
+要是有人对你做了桩噩事...
 If someone does something bad to you...
 
 1418
-01:35:11,160 --> 01:35:14,520
-说了让你害怕的话...
+01:35:11,160 --> 01:35:16,095
+有人借此羞辱 责怪 推诿 猜疑 或让你恐惧...
 If someone says something scary...
 
 1419

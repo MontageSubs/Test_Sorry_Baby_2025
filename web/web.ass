@@ -1429,7 +1429,7 @@ Dialogue: 0,1:31:35.20,1:31:36.45,Default,,0,0,0,,灯塔很浪漫的\N{\rEng}The
 Dialogue: 0,1:31:36.47,1:31:38.36,Default,,0,0,0,,就该你俩去\N{\rEng}You two should be there alone together.
 Dialogue: 0,1:31:38.38,1:31:40.80,Default,,0,0,0,,再造个宝宝什么的\N{\rEng}Make another baby or whatever.
 Dialogue: 0,1:31:40.82,1:31:43.06,Default,,0,0,0,,就二十分钟 很快的\N{\rEng}Like, twenty minutes, that's it.
-Dialogue: 0,1:31:43.08,1:31:45.80,Default,,0,0,0,,问一下 她不会把我吃了？\N{\rEng}One question. What if she kills me?
+Dialogue: 0,1:31:43.08,1:31:45.80,Default,,0,0,0,,问一下 她会不会把我吃了？\N{\rEng}One question. What if she kills me?
 Dialogue: 0,1:31:45.82,1:31:47.68,Default,,0,0,0,,她不吃人\N{\rEng}She's not gonna kill you.
 Dialogue: 0,1:31:55.03,1:31:56.07,Default,,0,0,0,,嘿...\N{\rEng}Hey...
 Dialogue: 0,1:31:57.36,1:31:59.37,Default,,0,0,0,,别抱掉了\N{\rEng}Don't drop her.
@@ -1464,8 +1464,8 @@ Dialogue: 0,1:34:44.78,1:34:49.67,Default,,0,0,0,,都可以告诉我 哪怕是�
 Dialogue: 0,1:34:50.83,1:34:55.25,Default,,0,0,0,,我很可能也有过 而且更坏\N{\rEng}I probably had that same thought but, like, ten times worse.
 Dialogue: 0,1:34:57.17,1:34:59.55,Default,,0,0,0,,所以你尽管说\N{\rEng}So you can just tell me.
 Dialogue: 0,1:35:00.20,1:35:03.28,Default,,0,0,0,,我不会大惊小怪的\N{\rEng}I'll never be scared by that.
-Dialogue: 0,1:35:07.68,1:35:11.06,Default,,0,0,0,,如果有人对你做了桩噩事...\N{\rEng}If someone does something bad to you...
-Dialogue: 0,1:35:11.16,1:35:14.52,Default,,0,0,0,,说了让你害怕的话...\N{\rEng}If someone says something scary...
+Dialogue: 0,1:35:07.68,1:35:11.06,Default,,0,0,0,,要是有人对你做了桩噩事...\N{\rEng}If someone does something bad to you...
+Dialogue: 0,1:35:11.16,1:35:16.10,Default,,0,0,0,,有人借此羞辱 责怪 推诿 猜疑 或让你恐惧...\N{\rEng}If someone says something scary...
 Dialogue: 0,1:35:16.12,1:35:21.71,Default,,0,0,0,,让你想用铅笔 刀之类的东西自尽\N{\rEng}If you wanna kill yourself with like a pencil or a knife or whatever,
 Dialogue: 0,1:35:23.44,1:35:25.84,Default,,0,0,0,,都可以跟我说\N{\rEng}you can just tell me.
 Dialogue: 0,1:35:28.70,1:35:33.27,Default,,0,0,0,,我永远不会评头论足 大惊小怪\N{\rEng}I'll never tell you you're scaring me.
