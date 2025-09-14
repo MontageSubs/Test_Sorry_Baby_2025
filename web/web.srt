@@ -620,12 +620,12 @@ Gavin!
 
 127
 00:07:10,930 --> 00:07:13,180
-- 你好呀 安尼丝 - 我是莉迪
+- 你好呀 安尼丝 - 我是利迪
 - Agnes. - Lydie.
 
 128
 00:07:13,200 --> 00:07:15,900
-哦 你就是莉迪 真尴尬
+哦 你就是利迪 真尴尬
 Oh, you're Lydie. Oh, my God!
 
 129
@@ -675,7 +675,7 @@ God bless your lost soul, and have a good night.
 
 138
 00:07:36,660 --> 00:07:38,680
-- 很高兴见到你 莉迪 - 我也是
+- 很高兴见到你 利迪 - 我也是
 - It's nice to meet you, Lydie. - You too.
 
 139
@@ -840,7 +840,7 @@ Yeah. You did want it.
 
 171
 00:09:16,540 --> 00:09:18,540
-- 对 - 莉迪
+- 对 - 利迪
 - Yeah. - Lydie...
 
 172
@@ -1265,7 +1265,7 @@ and I just got, like, full body chills when I saw the library.
 
 256
 00:12:53,910 --> 00:12:55,430
-那图书馆 莉迪 别提了
+那图书馆 利迪 别提了
 The library. Lydie, no. please.
 
 257
@@ -1518,7 +1518,7 @@ Yeah. I leave the house.
 
 307
 00:15:15,200 --> 00:15:17,540
-得去上班 我有工作的 莉迪
+得去上班 我有工作的 利迪
 I go to work. I have a job, Lydie.
 
 308
@@ -1663,7 +1663,7 @@ You please don't die.
 
 336
 00:16:50,060 --> 00:16:51,140
-莉迪...
+利迪...
 Lydie...
 
 337
@@ -1718,7 +1718,7 @@ I'm your mommy.
 
 347
 00:17:31,810 --> 00:17:35,130
-莉迪和弗兰可能会有别的说法 但听我说
+利迪和弗兰可能会有别的说法 但听我说
 Lydie and Fran may tell you otherwise, but heed my words.
 
 348
@@ -2005,7 +2005,7 @@ Keep showing off, it'll get you places.
 
 405
 00:21:47,940 --> 00:21:48,940
-莉迪
+利迪
 Lydie.
 
 406
@@ -2088,7 +2088,7 @@ Okay. Good. That's... that's great, Natasha.
 
 422
 00:22:28,520 --> 00:22:32,310
-莉迪 周三前能搞定吗？
+利迪 周三前能搞定吗？
 Lydie, you think you can finish by Wednesday?
 
 423
@@ -5116,7 +5116,7 @@ Yeah, I totally do. I do.
 
 1031
 01:08:53,990 --> 01:08:59,170
-哦 莉迪 你值得永远 永远被爱
+哦 利迪 你值得永远 永远被爱
 You...Oh, Lydie, you deserve to be in love all the time forever.
 
 1032
@@ -5338,7 +5338,7 @@ she and I, in a world of total evil..."
 
 1076
 01:11:54,590 --> 01:11:56,350
-莉迪订婚了
+利迪订婚了
 Lydie got engaged.
 
 1077
@@ -5443,7 +5443,7 @@ Logan likes you, Devin likes you.
 
 1097
 01:12:44,880 --> 01:12:46,230
-莉迪喜欢你
+利迪喜欢你
 Lydie likes you.
 
 1098
@@ -6393,7 +6393,7 @@ Well...
 
 1287
 01:26:45,810 --> 01:26:49,720
-只想让莉迪住近点
+只想让利迪住近点
 You know, probably just to keep Lydie closer...
 
 1288
@@ -6602,7 +6602,7 @@ Cool.
 
 1329
 01:29:16,770 --> 01:29:18,220
-- 莉迪？ - 在
+- 利迪？ - 在
 - Lydie? - Yeah?
 
 1330
@@ -6926,7 +6926,7 @@ Thank you.
 
 1394
 01:32:23,850 --> 01:32:24,850
-莉迪？
+利迪？
 Lydie?
 
 1395
@@ -7184,7 +7184,7 @@ Telegram和IRC交流群：MontageSubs
 1445
 01:38:17,700 --> 01:38:21,680
 {\an8}主演
-娜奥米·阿基 饰 闺蜜莉迪
+娜奥米·阿基 饰 闺蜜利迪
 
 1446
 01:38:21,710 --> 01:38:25,620
@@ -7200,7 +7200,7 @@ Telegram和IRC交流群：MontageSubs
 01:38:29,620 --> 01:38:33,590
 {\an8}主演
 海蒂安·帕克 饰 法庭律师威尔逊
-E. R.·费特迈斯特 饰 莉迪配偶弗兰
+E. R.·费特迈斯特 饰 利迪配偶弗兰
 
 1449
 01:38:33,610 --> 01:38:37,530

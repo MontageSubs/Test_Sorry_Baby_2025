@@ -82,11 +82,11 @@ Dialogue: 0,1:37:46.03,1:37:49.98,Default,,0,0,0,,{\pos(192,120)\1c00AAAAAA\fscy
 Dialogue: 0,1:37:53.97,1:37:57.91,Default,,0,0,0,,{\pos(192,110)\1c00AAAAAA\fscy120}{\fs10}剪\h\h\h\h辑\N{\fs16\fsp0}艾历克斯·奥洛林\N兰迪·阿特金斯
 Dialogue: 0,1:38:01.90,1:38:05.84,Default,,0,0,0,,{\pos(192,120)\1c00AAAAAA\fscy120}{\fs10}配\h\h\h\h乐\N{\fs16\fsp0}莉亚·欧阳·鲁斯李（李明德）
 Dialogue: 0,1:38:13.77,1:38:17.68,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fscy120}{\fs10}主\h\h\h\h演\N{\fs16}伊娃·维克托\h\h{\fs10}饰\h\h{\fs16}安尼丝
-Dialogue: 0,1:38:17.70,1:38:21.68,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fscy120}{\fs10}主\h\h\h\h演\N{\fs16}娜奥米·阿基\h\h{\fs10}饰\h\h{\fs16}闺蜜莉迪
+Dialogue: 0,1:38:17.70,1:38:21.68,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fscy120}{\fs10}主\h\h\h\h演\N{\fs16}娜奥米·阿基\h\h{\fs10}饰\h\h{\fs16}闺蜜利迪
 Dialogue: 0,1:38:21.71,1:38:25.62,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fscy120}{\fs10}主\h\h\h\h演\N{\fs16}路易斯·坎瑟米\h\h{\fs10}饰\h\h{\fs16}教授德克尔
 Dialogue: 0,1:38:25.64,1:38:29.59,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fscy120}{\fs10}主\h\h\h\h演\N{\fs16}凯莉·麦科马克\h\h{\fs10}饰\h\h{\fs16}校友同事娜塔莎
 Dialogue: 0,1:38:29.62,1:38:33.59,Default,,0,0,0,,{\pos(192,104)\1c00AAAAAA\fscy120}{\fs10}主\h\h\h\h演\N{\fs16}海蒂安·帕克\h\h{\fs10}饰\h\h{\fs16}法庭律师威尔逊
-Dialogue: 0,1:38:29.62,1:38:33.59,Default,,0,0,0,,{\pos(192,124)\1c00AAAAAA\fscy120}{\fs16}E. R.·费特迈斯特\h\h{\fs10}饰\h\h{\fs16}莉迪配偶弗兰
+Dialogue: 0,1:38:29.62,1:38:33.59,Default,,0,0,0,,{\pos(192,124)\1c00AAAAAA\fscy120}{\fs16}E. R.·费特迈斯特\h\h{\fs10}饰\h\h{\fs16}利迪配偶弗兰
 Dialogue: 0,1:38:33.61,1:38:37.53,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fscy120}{\fs10}主\h\h\h\h演\N{\fs16}卢卡斯·赫奇斯\h\h{\fs10}饰\h\h{\fs16}邻居盖文
 Dialogue: 0,1:38:37.55,1:38:41.47,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fscy120}{\fs10}主\h\h\h\h演\N{\fs16}约翰·卡洛·林奇\h\h{\fs10}饰\h\h{\fs16}三明治店老板皮特
 Dialogue: 0,1:42:23.24,1:42:28.62,Default,,0,0,0,,{\move(192,250,192,130)\fs12\1c00CCCCCC\fsp2}本故事纯属虚构 如有雷同实属巧合
@@ -203,8 +203,8 @@ Dialogue: 0,0:07:05.36,0:07:06.69,Default,,0,0,0,,哦 别 别 别\N{\rEng}Oh, no
 Dialogue: 0,0:07:06.72,0:07:07.96,Default,,0,0,0,,就是这门啊\N{\rEng}This is the house, yeah.
 Dialogue: 0,0:07:07.98,0:07:09.42,Default,,0,0,0,,- 你找安尼丝吗？ - 对 是 \N{\rEng}- Are you looking for Agnes? - Yes, yeah.
 Dialogue: 0,0:07:09.44,0:07:10.53,Default,,0,0,0,,盖文\N{\rEng}Gavin!
-Dialogue: 0,0:07:10.93,0:07:13.18,Default,,0,0,0,,- 你好呀 安尼丝 - 我是莉迪 \N{\rEng}- Agnes. - Lydie.
-Dialogue: 0,0:07:13.20,0:07:15.90,Default,,0,0,0,,哦 你就是莉迪 真尴尬\N{\rEng}Oh, you're Lydie. Oh, my God!
+Dialogue: 0,0:07:10.93,0:07:13.18,Default,,0,0,0,,- 你好呀 安尼丝 - 我是利迪 \N{\rEng}- Agnes. - Lydie.
+Dialogue: 0,0:07:13.20,0:07:15.90,Default,,0,0,0,,哦 你就是利迪 真尴尬\N{\rEng}Oh, you're Lydie. Oh, my God!
 Dialogue: 0,0:07:15.93,0:07:18.63,Default,,0,0,0,,抱歉 因为周末又到了\N{\rEng}Okay, I am so sorry, this is the weekend.
 Dialogue: 0,0:07:18.65,0:07:19.48,Default,,0,0,0,,是啊\N{\rEng}Yeah.
 Dialogue: 0,0:07:20.09,0:07:21.54,Default,,0,0,0,,看来我错了\N{\rEng}My mistake.
@@ -214,7 +214,7 @@ Dialogue: 0,0:07:28.14,0:07:30.48,Default,,0,0,0,,哦 对 我住那边\N{\rEng}O
 Dialogue: 0,0:07:30.51,0:07:32.41,Default,,0,0,0,,- 敲错了 - 没关系 \N{\rEng}- Oops. - That's okay.
 Dialogue: 0,0:07:32.43,0:07:33.66,Default,,0,0,0,,做个好梦吧 盖文\N{\rEng}Sweet dreams, Gavin.
 Dialogue: 0,0:07:33.69,0:07:36.63,Default,,0,0,0,,愿上帝管管你这可怜的灵魂 拜拜\N{\rEng}God bless your lost soul, and have a good night.
-Dialogue: 0,0:07:36.66,0:07:38.68,Default,,0,0,0,,- 很高兴见到你 莉迪 - 我也是 \N{\rEng}- It's nice to meet you, Lydie. - You too.
+Dialogue: 0,0:07:36.66,0:07:38.68,Default,,0,0,0,,- 很高兴见到你 利迪 - 我也是 \N{\rEng}- It's nice to meet you, Lydie. - You too.
 Dialogue: 0,0:07:39.71,0:07:41.07,Default,,0,0,0,,他真可爱\N{\rEng}He's cute.
 Dialogue: 0,0:07:41.14,0:07:42.67,Default,,0,0,0,,- 他？- 你找他来上床的 \N{\rEng}- Who? - You're fucking him.
 Dialogue: 0,0:07:42.71,0:07:43.75,Default,,0,0,0,,不 才没有\N{\rEng}No, I'm not.
@@ -247,7 +247,7 @@ Dialogue: 0,0:09:10.49,0:09:12.45,Default,,0,0,0,,嗯 是呀 挺好的\N{\rEng}Y
 Dialogue: 0,0:09:12.47,0:09:13.64,Default,,0,0,0,,显然这是我想要的\N{\rEng}Like, I wanted it, obviously.
 Dialogue: 0,0:09:13.67,0:09:15.34,Default,,0,0,0,,费了好大劲\N{\rEng}Like, we tried a million times.
 Dialogue: 0,0:09:15.36,0:09:16.49,Default,,0,0,0,,对 你确实想要\N{\rEng}Yeah. You did want it.
-Dialogue: 0,0:09:16.54,0:09:18.54,Default,,0,0,0,,- 对 - 莉迪 \N{\rEng}- Yeah. - Lydie...
+Dialogue: 0,0:09:16.54,0:09:18.54,Default,,0,0,0,,- 对 - 利迪 \N{\rEng}- Yeah. - Lydie...
 Dialogue: 0,0:09:19.42,0:09:21.81,Default,,0,0,0,,打算用我的名字吗？\N{\rEng}Are you gonna name it Agnes?
 Dialogue: 0,0:09:21.93,0:09:23.43,Default,,0,0,0,,哦\N{\rEng}Oh.
 Dialogue: 0,0:09:23.49,0:09:25.75,Default,,0,0,0,,嗯 我不知道 我不确定\N{\rEng}Yeah. I don't know. I don't know.
@@ -332,7 +332,7 @@ Dialogue: 0,0:12:44.70,0:12:45.69,Default,,0,0,0,,替你高兴\N{\rEng}Good for 
 Dialogue: 0,0:12:45.71,0:12:47.33,Default,,0,0,0,,嗯 回来这趟感触挺深\N{\rEng}Um, but it's a trip being back.
 Dialogue: 0,0:12:47.36,0:12:50.44,Default,,0,0,0,,去安尼丝家路上路过学校\N{\rEng}I drove past the campus on my way to Agnes',
 Dialogue: 0,0:12:50.46,0:12:53.89,Default,,0,0,0,,见到图书馆就起鸡皮疙瘩\N{\rEng}and I just got, like, full body chills when I saw the library.
-Dialogue: 0,0:12:53.91,0:12:55.43,Default,,0,0,0,,那图书馆 莉迪 别提了\N{\rEng}The library. Lydie, no. please.
+Dialogue: 0,0:12:53.91,0:12:55.43,Default,,0,0,0,,那图书馆 利迪 别提了\N{\rEng}The library. Lydie, no. please.
 Dialogue: 0,0:12:55.46,0:12:56.83,Default,,0,0,0,,你懂吧\N{\rEng}You know what I mean?
 Dialogue: 0,0:12:56.85,0:12:59.16,Default,,0,0,0,,那地方给我留着很深的压力印记\N{\rEng}I have, like, deeply ingrained stress from that place.
 Dialogue: 0,0:12:59.18,0:13:02.29,Default,,0,0,0,,对 在研究院那会儿真太狠了\N{\rEng}Yeah, Grad school was wild. I honestly feel like
@@ -381,7 +381,7 @@ Dialogue: 0,0:15:05.09,0:15:06.59,Default,,0,0,0,,噢 要下去吗？\N{\rEng}Oh
 Dialogue: 0,0:15:06.67,0:15:08.01,Default,,0,0,0,,好 把你放下去\N{\rEng}Okay. I'll put you down.
 Dialogue: 0,0:15:09.76,0:15:12.25,Default,,0,0,0,,你会走出这房子吧？\N{\rEng}You leave the house, right?
 Dialogue: 0,0:15:13.10,0:15:14.89,Default,,0,0,0,,嗯 天天走出啊\N{\rEng}Yeah. I leave the house.
-Dialogue: 0,0:15:15.20,0:15:17.54,Default,,0,0,0,,得去上班 我有工作的 莉迪\N{\rEng}I go to work. I have a job, Lydie.
+Dialogue: 0,0:15:15.20,0:15:17.54,Default,,0,0,0,,得去上班 我有工作的 利迪\N{\rEng}I go to work. I have a job, Lydie.
 Dialogue: 0,0:15:19.82,0:15:21.06,Default,,0,0,0,,但...\N{\rEng}But...
 Dialogue: 0,0:15:21.56,0:15:24.36,Default,,0,0,0,,你还待在那间办公室里啊\N{\rEng}you're still in the same office.
 Dialogue: 0,0:15:24.86,0:15:25.94,Default,,0,0,0,,的确\N{\rEng}Yes.
@@ -410,7 +410,7 @@ Dialogue: 0,0:16:34.12,0:16:35.41,Default,,0,0,0,,安尼丝 别\N{\rEng}Agnes.
 Dialogue: 0,0:16:36.07,0:16:37.41,Default,,0,0,0,,我不会死的\N{\rEng}No. I'm not gonna die.
 Dialogue: 0,0:16:40.21,0:16:42.37,Default,,0,0,0,,那我也回敬你一句\N{\rEng}Let me return the sentiment.
 Dialogue: 0,0:16:42.56,0:16:44.42,Default,,0,0,0,,你也别想着去死\N{\rEng}You please don't die.
-Dialogue: 0,0:16:50.06,0:16:51.14,Default,,0,0,0,,莉迪...\N{\rEng}Lydie...
+Dialogue: 0,0:16:50.06,0:16:51.14,Default,,0,0,0,,利迪...\N{\rEng}Lydie...
 Dialogue: 0,0:16:52.61,0:16:54.42,Default,,0,0,0,,你怀了个小宝宝\N{\rEng}You're having a little baby.
 Dialogue: 0,0:16:56.43,0:16:57.51,Default,,0,0,0,,对\N{\rEng}I know.
 Dialogue: 0,0:16:59.45,0:17:02.59,Default,,0,0,0,,你会把宝宝照顾得很好\N{\rEng}You're gonna take such good care of your little baby.
@@ -421,7 +421,7 @@ Dialogue: 0,0:17:13.72,0:17:15.51,Default,,0,0,0,,想跟宝宝打个招呼吗？
 Dialogue: 0,0:17:23.14,0:17:24.27,Default,,0,0,0,,嗨\N{\rEng}Hi.
 Dialogue: 0,0:17:26.44,0:17:27.61,Default,,0,0,0,,我是安尼丝\N{\rEng}I'm Agnes.
 Dialogue: 0,0:17:30.00,0:17:31.78,Default,,0,0,0,,我是你妈咪\N{\rEng}I'm your mommy.
-Dialogue: 0,0:17:31.81,0:17:35.13,Default,,0,0,0,,莉迪和弗兰可能会有别的说法 但听我说\N{\rEng}Lydie and Fran may tell you otherwise, but heed my words.
+Dialogue: 0,0:17:31.81,0:17:35.13,Default,,0,0,0,,利迪和弗兰可能会有别的说法 但听我说\N{\rEng}Lydie and Fran may tell you otherwise, but heed my words.
 Dialogue: 0,0:17:35.16,0:17:36.49,Default,,0,0,0,,- 我是你妈 - 安尼丝！ \N{\rEng}- I'm your mother. - Agnes!
 Dialogue: 0,0:17:36.52,0:17:38.86,Default,,0,0,0,,- 别闹 正经点 - 好 好吧 \N{\rEng}- Do it properly. - Yeah. All right.
 Dialogue: 0,0:17:41.62,0:17:43.87,Default,,0,0,0,,嗨 我是安尼丝\N{\rEng}Hi. I'm Agnes.
@@ -476,7 +476,7 @@ Dialogue: 0,0:21:38.75,0:21:40.92,Default,,0,0,0,,抱歉各位 我平时不爱�
 Dialogue: 0,0:21:40.94,0:21:43.19,Default,,0,0,0,,不是故意抢先的\N{\rEng}so this wasn't like a whole thing for me.
 Dialogue: 0,0:21:43.27,0:21:44.85,Default,,0,0,0,,没事的\N{\rEng}That's okay.
 Dialogue: 0,0:21:44.98,0:21:47.11,Default,,0,0,0,,别太谦虚 真金藏不住的\N{\rEng}Keep showing off, it'll get you places.
-Dialogue: 0,0:21:47.94,0:21:48.94,Default,,0,0,0,,莉迪\N{\rEng}Lydie.
+Dialogue: 0,0:21:47.94,0:21:48.94,Default,,0,0,0,,利迪\N{\rEng}Lydie.
 Dialogue: 0,0:21:50.41,0:21:51.79,Default,,0,0,0,,我在这儿\N{\rEng}I'm Lydie.
 Dialogue: 0,0:21:51.86,0:21:53.07,Default,,0,0,0,,你写好了吗？\N{\rEng}Did you finish?
 Dialogue: 0,0:21:53.37,0:21:55.33,Default,,0,0,0,,呃 是的 嗯...\N{\rEng}Uh, yeah, um...
@@ -491,7 +491,7 @@ Dialogue: 0,0:22:16.27,0:22:19.19,Default,,0,0,0,,我是你的导师 帮手 之�
 Dialogue: 0,0:22:19.27,0:22:21.90,Default,,0,0,0,,来这是帮你按时交论文的\N{\rEng}I'm just here to make sure it happens.
 Dialogue: 0,0:22:21.93,0:22:22.98,Default,,0,0,0,,我的写完了\N{\rEng}I did mine.
 Dialogue: 0,0:22:24.69,0:22:27.07,Default,,0,0,0,,行 好 不错 娜塔莎\N{\rEng}Okay. Good. That's... that's great, Natasha.
-Dialogue: 0,0:22:28.52,0:22:32.31,Default,,0,0,0,,莉迪 周三前能搞定吗？\N{\rEng}Lydie, you think you can finish by Wednesday?
+Dialogue: 0,0:22:28.52,0:22:32.31,Default,,0,0,0,,利迪 周三前能搞定吗？\N{\rEng}Lydie, you think you can finish by Wednesday?
 Dialogue: 0,0:22:32.33,0:22:34.42,Default,,0,0,0,,去掉狄迪恩的稿子给我\N{\rEng}Get me your draft minus the Joan by then?
 Dialogue: 0,0:22:34.45,0:22:36.04,Default,,0,0,0,,嗯 行吧\N{\rEng}Yeah, again...
 Dialogue: 0,0:22:36.12,0:22:37.08,Default,,0,0,0,,抱歉打断\N{\rEng}Sorry about that.
@@ -1083,7 +1083,7 @@ Dialogue: 0,1:08:40.30,1:08:44.17,Default,,0,0,0,,做女同又被爱 超幸福�
 Dialogue: 0,1:08:44.20,1:08:49.34,Default,,0,0,0,,幸福死了 做女同又被爱超棒\N{\rEng}Oh, I'm like really, really happy being gay and in love.
 Dialogue: 0,1:08:49.37,1:08:51.04,Default,,0,0,0,,天呐 你得见见TA！\N{\rEng}Oh, my God, you have to meet them!
 Dialogue: 0,1:08:51.06,1:08:53.76,Default,,0,0,0,,好 我绝对想见\N{\rEng}Yeah, I totally do. I do.
-Dialogue: 0,1:08:53.99,1:08:59.17,Default,,0,0,0,,哦 莉迪 你值得永远 永远被爱\N{\rEng}You...Oh, Lydie, you deserve to be in love all the time forever.
+Dialogue: 0,1:08:53.99,1:08:59.17,Default,,0,0,0,,哦 利迪 你值得永远 永远被爱\N{\rEng}You...Oh, Lydie, you deserve to be in love all the time forever.
 Dialogue: 0,1:08:59.72,1:09:01.14,Default,,0,0,0,,谢谢你 宝贝\N{\rEng}Thank you, babe.
 Dialogue: 0,1:09:01.17,1:09:04.30,Default,,0,0,0,,对 对了 我拿到职位了\N{\rEng}Well, well... so I got the job.
 Dialogue: 0,1:09:04.32,1:09:05.09,Default,,0,0,0,,什么？\N{\rEng}What?
@@ -1125,7 +1125,7 @@ Dialogue: 0,1:11:29.59,1:11:32.59,Default,,0,0,0,,- 说得好 - 好 继续读 \N
 Dialogue: 0,1:11:32.66,1:11:36.91,Default,,0,0,0,,“我常常发现 我们俩生活在一个\N{\rEng}"For I often noticed that living as we did,
 Dialogue: 0,1:11:36.94,1:11:40.45,Default,,0,0,0,,完全邪恶的世界里”\N{\rEng}she and I, in a world of total evil..."
 Dialogue: 0,1:11:51.58,1:11:53.86,Default,,0,0,0,,- 听说... - 嗨 \N{\rEng}- So... - Hi.
-Dialogue: 0,1:11:54.59,1:11:56.35,Default,,0,0,0,,莉迪订婚了\N{\rEng}Lydie got engaged.
+Dialogue: 0,1:11:54.59,1:11:56.35,Default,,0,0,0,,利迪订婚了\N{\rEng}Lydie got engaged.
 Dialogue: 0,1:11:56.50,1:11:57.88,Default,,0,0,0,,嗯\N{\rEng}Yeah.
 Dialogue: 0,1:11:58.01,1:11:59.35,Default,,0,0,0,,什么时候办婚礼？\N{\rEng}When's the wedding?
 Dialogue: 0,1:11:59.38,1:12:01.26,Default,,0,0,0,,夏天办\N{\rEng}It's in the summer.
@@ -1146,7 +1146,7 @@ Dialogue: 0,1:12:37.97,1:12:40.06,Default,,0,0,0,,就轻松 大家都喜欢你\N
 Dialogue: 0,1:12:40.08,1:12:41.79,Default,,0,0,0,,- 又聪明又性感 - 谢谢 \N{\rEng}- You're smart, you're hot. - Thank you.
 Dialogue: 0,1:12:41.82,1:12:43.16,Default,,0,0,0,,呃 是有魅力\N{\rEng}Ew, not like that.
 Dialogue: 0,1:12:43.19,1:12:44.86,Default,,0,0,0,,洛根喜欢你 德文喜欢你\N{\rEng}Logan likes you, Devin likes you.
-Dialogue: 0,1:12:44.88,1:12:46.23,Default,,0,0,0,,莉迪喜欢你\N{\rEng}Lydie likes you.
+Dialogue: 0,1:12:44.88,1:12:46.23,Default,,0,0,0,,利迪喜欢你\N{\rEng}Lydie likes you.
 Dialogue: 0,1:12:46.50,1:12:48.22,Default,,0,0,0,,德克尔也喜欢你\N{\rEng}Decker likes you.
 Dialogue: 0,1:12:51.40,1:12:53.38,Default,,0,0,0,,可你并不喜欢我\N{\rEng}Well, you don't like me.
 Dialogue: 0,1:13:02.02,1:13:03.48,Default,,0,0,0,,还真是\N{\rEng}That's true.
@@ -1336,7 +1336,7 @@ Dialogue: 0,1:26:34.85,1:26:36.86,Default,,0,0,0,,嗯 我想要那种事情\N{\r
 Dialogue: 0,1:26:37.95,1:26:39.08,Default,,0,0,0,,挺好\N{\rEng}Nice.
 Dialogue: 0,1:26:40.31,1:26:41.44,Default,,0,0,0,,你呢？\N{\rEng}Do you?
 Dialogue: 0,1:26:43.14,1:26:44.39,Default,,0,0,0,,嗯...\N{\rEng}Well...
-Dialogue: 0,1:26:45.81,1:26:49.72,Default,,0,0,0,,只想让莉迪住近点\N{\rEng}You know, probably just to keep Lydie closer...
+Dialogue: 0,1:26:45.81,1:26:49.72,Default,,0,0,0,,只想让利迪住近点\N{\rEng}You know, probably just to keep Lydie closer...
 Dialogue: 0,1:26:50.11,1:26:52.74,Default,,0,0,0,,但我看不见\N{\rEng}but I don't see it.
 Dialogue: 0,1:26:54.77,1:26:56.13,Default,,0,0,0,,看什么？\N{\rEng}See it where?
 Dialogue: 0,1:26:56.15,1:26:58.67,Default,,0,0,0,,看不见那种未来\N{\rEng}Like, in my head.
@@ -1377,7 +1377,7 @@ Dialogue: 0,1:29:10.37,1:29:12.05,Default,,0,0,0,,那真好\N{\rEng}Well, that's
 Dialogue: 0,1:29:12.66,1:29:14.47,Default,,0,0,0,,你还喜欢我吧？\N{\rEng}And you still like me, right?
 Dialogue: 0,1:29:14.49,1:29:16.23,Default,,0,0,0,,废话 安尼丝 你俩我都爱\N{\rEng}Yes, Agnes. I love you both.
 Dialogue: 0,1:29:16.25,1:29:16.74,Default,,0,0,0,,好\N{\rEng}Cool.
-Dialogue: 0,1:29:16.77,1:29:18.22,Default,,0,0,0,,- 莉迪？ - 在 \N{\rEng}- Lydie? - Yeah?
+Dialogue: 0,1:29:16.77,1:29:18.22,Default,,0,0,0,,- 利迪？ - 在 \N{\rEng}- Lydie? - Yeah?
 Dialogue: 0,1:29:18.24,1:29:21.08,Default,,0,0,0,,- 宝贝 帮我抱下宝宝吧 - 好 回来聊 \N{\rEng}- Babe, will you grab the baby? - Yeah, of course. One second.
 Dialogue: 0,1:29:21.12,1:29:21.79,Default,,0,0,0,,- 嘿 - 嗨\N{\rEng}- Hey. - Hi.
 Dialogue: 0,1:29:21.81,1:29:23.61,Default,,0,0,0,,- 要我帮忙拿吗？ - 没事 不用 \N{\rEng}- You need help with the stuff? - No, no, no.
@@ -1441,7 +1441,7 @@ Dialogue: 0,1:32:14.38,1:32:15.51,Default,,0,0,0,,谢谢\N{\rEng}Thank you.
 Dialogue: 0,1:32:16.88,1:32:18.66,Default,,0,0,0,,给你小兔兔\N{\rEng}Here you go.
 Dialogue: 0,1:32:19.63,1:32:21.13,Default,,0,0,0,,太谢谢了\N{\rEng}Thank you.
 Dialogue: 0,1:32:22.15,1:32:23.80,Default,,0,0,0,,- 给你 宝贝 - 谢谢 \N{\rEng}- Here you go, babe. - Thank you.
-Dialogue: 0,1:32:23.85,1:32:24.85,Default,,0,0,0,,莉迪？\N{\rEng}Lydie?
+Dialogue: 0,1:32:23.85,1:32:24.85,Default,,0,0,0,,利迪？\N{\rEng}Lydie?
 Dialogue: 0,1:32:25.28,1:32:26.45,Default,,0,0,0,,嗯？\N{\rEng}Yeah?
 Dialogue: 0,1:32:27.18,1:32:29.11,Default,,0,0,0,,我该对她说点啥？\N{\rEng}What do I say to her?
 Dialogue: 0,1:32:29.13,1:32:31.22,Default,,0,0,0,,宝贝 什么都不用说\N{\rEng}Babe, you don't have to say anything.
