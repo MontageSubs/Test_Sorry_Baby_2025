@@ -126,7 +126,7 @@ Yeah, but your feet are huge, babe.
 
 27
 00:02:24,910 --> 00:02:31,930
-{\an8}（“宝贝”相伴的时光）
+{\an8}“宝贝”相伴的时光
 
 28
 00:02:26,620 --> 00:02:27,980
@@ -1280,7 +1280,7 @@ I have, like, deeply ingrained stress from that place.
 
 259
 00:12:59,180 --> 00:13:02,290
-对 读研时真太狠了
+对 在研究院那会儿真太狠了
 Yeah, Grad school was wild. I honestly feel like
 
 260
@@ -1867,7 +1867,7 @@ Okay.
 
 377
 00:20:27,540 --> 00:20:32,750
-{\an8}（那桩噩事的时光）
+{\an8}那桩噩事的时光
 
 378
 00:20:30,610 --> 00:20:32,290
@@ -2045,7 +2045,7 @@ The last page is, like, a copy and paste extract of...
 
 413
 00:22:04,270 --> 00:22:10,390
-{\an9}【译注 《向伯利恒跋涉》：琼·狄迪恩(美)散文 描绘60年代旧金山嬉皮与反文化】
+{\an9}【译注 《向伯利恒跋涉》：琼·狄迪恩（美）散文 描绘60年代旧金山嬉皮与反文化】
 
 414
 00:22:10,470 --> 00:22:12,660
@@ -3425,7 +3425,7 @@ It doesn't feel that you know that.
 These questions are protocol.
 
 691
-00:43:27,995 --> 00:43:30,190
+00:43:28,000 --> 00:43:30,190
 嗯 但您问TA的方式真尖锐啊
 Yeah, you're asking them in a really freaky way.
 
@@ -3776,7 +3776,7 @@ Lamb of God.
 
 761
 00:49:17,510 --> 00:49:19,650
-{\an9}【译注 开玩笑说她是耶稣化身】
+{\an9}【译注 开玩笑说安尼丝是耶稣化身】
 
 762
 00:49:19,680 --> 00:49:21,210
@@ -4272,7 +4272,7 @@ Whatever you need.
 
 861
 00:59:02,990 --> 00:59:09,330
-{\an8}（善问 恶问与自问的时光）
+{\an8}善问 恶问与自问的时光
 
 862
 00:59:06,530 --> 00:59:12,370
@@ -4512,12 +4512,12 @@ As the prosecution,
 
 910
 01:01:43,010 --> 01:01:46,650
-得把罪证明到排除合理怀疑
+我得把罪证明到排除合理怀疑
 I must prove the defendant's guilt beyond a reasonable doubt.
 
 911
 01:01:46,680 --> 01:01:50,000
-即 从提交的证据中
+即 从现有的证据中
 Meaning, that there is no other reasonable explanation
 
 912
@@ -4717,7 +4717,7 @@ I did not know that we would be reading those aloud, so.
 
 951
 01:03:38,950 --> 01:03:43,360
-要是那遭遇让你有偏见 就得免除你
+要是那遭遇让你有偏见 就会免除你
 If the crime you were a victim of makes you biased, we will dismiss you.
 
 952
@@ -4742,7 +4742,7 @@ The law makes no sense in my opinion.
 
 956
 01:03:58,430 --> 01:03:59,430
-我...
+那...
 I...
 
 957
@@ -4837,7 +4837,7 @@ Rex?
 
 975
 01:05:17,960 --> 01:05:24,130
-{\an8}（暖心三明治的时光）
+{\an8}暖心三明治的时光
 
 976
 01:05:23,150 --> 01:05:24,230
@@ -5312,7 +5312,7 @@ looking through the little window thing.
 She is persistent.
 
 1071
-01:11:24,160 --> 01:11:29,120
+01:11:24,160 --> 01:11:29,565
 像亨伯特想把洛丽塔永远锁在青春里
 Much like Humbert's desire to freeze Lolita in time.
 
@@ -6473,7 +6473,7 @@ I think it's nice.
 
 1303
 01:28:05,590 --> 01:28:11,420
-{\an8}（“宝贝”相伴的时光）
+{\an8}“宝贝”相伴的时光
 
 1304
 01:28:26,830 --> 01:28:30,040

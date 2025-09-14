@@ -46,7 +46,7 @@ Dialogue: 0,0:14:32.06,0:14:34.85,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1
 Dialogue: 0,0:18:13.61,0:18:15.47,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 {\fs15\fscx120\1c00FFFFFF}TA{\fs14\fscx100\1c00CCCCCC} 为中性代词】
 Dialogue: 0,0:20:27.54,0:20:32.75,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fscy120\fsp1}那桩噩事的时光
 Dialogue: 0,0:20:46.55,0:20:51.14,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 泰德·休斯：英国诗人 以强烈自然意象和原始神话力量著称】
-Dialogue: 0,0:22:04.17,0:22:08.83,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 《向伯利恒跋涉》：琼·狄迪恩(美)散文 描绘60年代旧金山嬉皮与反文化】
+Dialogue: 0,0:22:04.17,0:22:08.83,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 《向伯利恒跋涉》：琼·狄迪恩（美）散文 描绘60年代旧金山嬉皮与反文化】
 Dialogue: 0,0:22:10.47,0:22:12.66,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 耶茨：指关注家庭生活的小说家理查德·耶茨（美）】
 Dialogue: 0,0:23:04.46,0:23:07.56,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 《反对阐释》：苏珊·桑塔格（美）散文 批判过度理论化 主张直接感受艺术】
 Dialogue: 0,0:23:04.46,0:23:07.51,Default,,0,0,0,,{\pos(176,200)\fs10\b1\1c00AAAAAA\frz15}《反对阐释》
@@ -57,7 +57,7 @@ Dialogue: 0,0:24:54.65,0:24:57.93,Default,,0,0,0,,{\pos(310,140)\frz-1\1c00AAAAA
 Dialogue: 0,0:28:19.40,0:28:23.34,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 《到灯塔去》：伍尔夫（英）1927年所著意识流小说 讲家庭、记忆和时间】
 Dialogue: 0,0:29:54.08,0:30:01.00,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 莫里森（美）小说《所罗门之歌》 讲述黑人家庭的寻根与自由】
 Dialogue: 0,0:30:21.99,0:30:45.26,Default,,0,0,0,,{\pos(306,184)\frz-18\1c00AAAAAA\fs16\b1}教授 普雷斯顿·德克尔\N{\fs14}英语系
-Dialogue: 0,0:49:17.51,0:49:19.30,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 开玩笑说她是耶稣化身】
+Dialogue: 0,0:49:17.51,0:49:19.30,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 开玩笑说安尼丝是耶稣化身】
 Dialogue: 0,0:51:15.61,0:51:17.76,Default,,0,0,0,,{\pos(200,270)\frz42\1c00AAAAAA\b1\fscy140\fs12}《乔凡尼的房间》
 Dialogue: 0,0:51:15.61,0:51:22.64,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 《乔凡尼的房间》：詹姆斯·鲍德温（美）所著小说 聚焦同性恋身份与孤独】
 Dialogue: 0,0:58:12.28,0:58:14.91,Default,,0,0,0,,{\pos(270,160)\fs10\1c00AAAAAA\b1\frz-2}批注 详细阐明？
@@ -334,7 +334,7 @@ Dialogue: 0,0:12:50.46,0:12:53.89,Default,,0,0,0,,见到图书馆就起鸡皮疙
 Dialogue: 0,0:12:53.91,0:12:55.43,Default,,0,0,0,,那图书馆 莉迪 别提了\N{\rEng}The library. Lydie, no. please.
 Dialogue: 0,0:12:55.46,0:12:56.83,Default,,0,0,0,,你懂吧\N{\rEng}You know what I mean?
 Dialogue: 0,0:12:56.85,0:12:59.16,Default,,0,0,0,,那地方给我留着很深的压力印记\N{\rEng}I have, like, deeply ingrained stress from that place.
-Dialogue: 0,0:12:59.18,0:13:02.29,Default,,0,0,0,,对 读研时真太狠了\N{\rEng}Yeah, Grad school was wild. I honestly feel like
+Dialogue: 0,0:12:59.18,0:13:02.29,Default,,0,0,0,,对 在研究院那会儿真太狠了\N{\rEng}Yeah, Grad school was wild. I honestly feel like
 Dialogue: 0,0:13:02.32,0:13:04.17,Default,,0,0,0,,我写那论文跟长征一样\N{\rEng}I worked on that thesis for like, a decade.
 Dialogue: 0,0:13:04.19,0:13:07.62,Default,,0,0,0,,可不是嘛 有次我在图书馆自习室\N{\rEng}Yeah. This one time, um...on the third floor in a private room,
 Dialogue: 0,0:13:07.64,0:13:10.34,Default,,0,0,0,,差点想用《小杜丽》那书\N{\rEng}I almost paper cut my face open with my copy of Little Dorrit
@@ -962,8 +962,8 @@ Dialogue: 0,1:01:34.85,1:01:36.19,Default,,0,0,0,,能\N{\rEng}Mhmm.
 Dialogue: 0,1:01:36.21,1:01:37.65,Default,,0,0,0,,没有直接证词\N{\rEng}Without direct testimony,
 Dialogue: 0,1:01:37.67,1:01:41.54,Default,,0,0,0,,就不能肯定犯罪一定发生\N{\rEng}we cannot be positively certain a crime has been committed.
 Dialogue: 0,1:01:41.57,1:01:42.99,Default,,0,0,0,,作为检方\N{\rEng}As the prosecution,
-Dialogue: 0,1:01:43.01,1:01:46.65,Default,,0,0,0,,得把罪证明到排除合理怀疑\N{\rEng}I must prove the defendant's guilt beyond a reasonable doubt.
-Dialogue: 0,1:01:46.68,1:01:50.00,Default,,0,0,0,,即 从提交的证据中\N{\rEng}Meaning, that there is no other reasonable explanation
+Dialogue: 0,1:01:43.01,1:01:46.65,Default,,0,0,0,,我得把罪证明到排除合理怀疑\N{\rEng}I must prove the defendant's guilt beyond a reasonable doubt.
+Dialogue: 0,1:01:46.68,1:01:50.00,Default,,0,0,0,,即 从现有的证据中\N{\rEng}Meaning, that there is no other reasonable explanation
 Dialogue: 0,1:01:50.02,1:01:52.41,Default,,0,0,0,,不存在其他合理解释\N{\rEng}that can come from evidence presented.
 Dialogue: 0,1:01:52.44,1:01:54.96,Default,,0,0,0,,谁是犯罪受害者\N{\rEng}If any of you have been victims of a crime,
 Dialogue: 0,1:01:54.99,1:01:56.84,Default,,0,0,0,,请举手\N{\rEng}please raise your hand.
@@ -1003,12 +1003,12 @@ Dialogue: 0,1:03:26.36,1:03:27.42,Default,,0,0,0,,哦 别 别\N{\rEng}Oh, no, no
 Dialogue: 0,1:03:27.45,1:03:30.32,Default,,0,0,0,,我没想到会被当众念出来\N{\rEng}I did not know that we would be reading those aloud, so.
 Dialogue: 0,1:03:30.35,1:03:32.24,Default,,0,0,0,,“你朋友怎样形容你”\N{\rEng}"How would your friends describe you?"
 Dialogue: 0,1:03:32.27,1:03:35.98,Default,,0,0,0,,“聪明”被划掉了 改成了个“高”\N{\rEng}"Smart." Crossed out, then the word "tall."
-Dialogue: 0,1:03:38.95,1:03:43.36,Default,,0,0,0,,要是那遭遇让你有偏见 就得免除你\N{\rEng}If the crime you were a victim of makes you biased, we will dismiss you.
+Dialogue: 0,1:03:38.95,1:03:43.36,Default,,0,0,0,,要是那遭遇让你有偏见 就会免除你\N{\rEng}If the crime you were a victim of makes you biased, we will dismiss you.
 Dialogue: 0,1:03:45.17,1:03:46.74,Default,,0,0,0,,说了不会惹上事吧？\N{\rEng}Can I get in trouble for telling you?
 Dialogue: 0,1:03:46.76,1:03:49.09,Default,,0,0,0,,你是受害者 怎会有事？\N{\rEng}Why would you get in trouble if you were the victim?
 Dialogue: 0,1:03:49.12,1:03:50.41,Default,,0,0,0,,我不知道\N{\rEng}I don't know.
 Dialogue: 0,1:03:50.43,1:03:53.59,Default,,0,0,0,,法律有很多不讲理的地方\N{\rEng}The law makes no sense in my opinion.
-Dialogue: 0,1:03:58.43,1:03:59.43,Default,,0,0,0,,我...\N{\rEng}I...
+Dialogue: 0,1:03:58.43,1:03:59.43,Default,,0,0,0,,那...\N{\rEng}I...
 Dialogue: 0,1:04:02.86,1:04:06.07,Default,,0,0,0,,那事我从未公开说过\N{\rEng}I haven't said it out loud actually before.
 Dialogue: 0,1:04:06.10,1:04:07.64,Default,,0,0,0,,没关系的\N{\rEng}Well, that's okay.
 Dialogue: 0,1:04:07.84,1:04:09.46,Default,,0,0,0,,你报警了吗？\N{\rEng}Did you go to the police?
@@ -1119,7 +1119,7 @@ Dialogue: 0,1:11:05.15,1:11:08.80,Default,,0,0,0,,被手法和内容搞得矛盾
 Dialogue: 0,1:11:08.82,1:11:13.52,Default,,0,0,0,,呃 教授 那女士又来了\N{\rEng}Uh, professor... that lady is back
 Dialogue: 0,1:11:13.89,1:11:17.44,Default,,0,0,0,,又从小窗往这儿看\N{\rEng}looking through the little window thing.
 Dialogue: 0,1:11:22.05,1:11:24.13,Default,,0,0,0,,她很执着\N{\rEng}She is persistent.
-Dialogue: 0,1:11:24.16,1:11:29.12,Default,,0,0,0,,像亨伯特想把洛丽塔永远锁在青春里\N{\rEng}Much like Humbert's desire to freeze Lolita in time.
+Dialogue: 0,1:11:24.16,1:11:29.57,Default,,0,0,0,,像亨伯特想把洛丽塔永远锁在青春里\N{\rEng}Much like Humbert's desire to freeze Lolita in time.
 Dialogue: 0,1:11:29.59,1:11:32.59,Default,,0,0,0,,- 说得好 - 好 继续读 \N{\rEng}- Nice. - Okay. Let's read.
 Dialogue: 0,1:11:32.66,1:11:36.91,Default,,0,0,0,,“我常常发现 我们俩生活在一个\N{\rEng}"For I often noticed that living as we did,
 Dialogue: 0,1:11:36.94,1:11:40.45,Default,,0,0,0,,完全邪恶的世界里”\N{\rEng}she and I, in a world of total evil..."
