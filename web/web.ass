@@ -60,7 +60,6 @@ Dialogue: 0,0:30:21.99,0:30:45.26,Default,,0,0,0,,{\pos(306,184)\frz-18\1c00AAAA
 Dialogue: 0,0:49:17.51,0:49:19.30,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 开玩笑说安尼丝是耶稣化身】
 Dialogue: 0,0:51:15.61,0:51:17.76,Default,,0,0,0,,{\pos(200,270)\frz42\1c00AAAAAA\b1\fscy140\fs12}《乔凡尼的房间》
 Dialogue: 0,0:51:15.61,0:51:22.64,Default,,0,0,0,,{\an9\fs14\b1\1c00CCCCCC\shad1\bord1}【译注 《乔凡尼的房间》：詹姆斯·鲍德温（美）所著小说 聚焦同性恋身份与孤独】
-Dialogue: 0,0:58:12.28,0:58:14.91,Default,,0,0,0,,{\pos(270,160)\fs10\1c00AAAAAA\b1\frz-2}批注 详细阐明？
 Dialogue: 0,0:59:02.99,0:59:09.27,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fscy120\fsp1}善问 恶问与自问的时光
 Dialogue: 0,0:59:36.28,0:59:39.79,Default,,0,0,0,,{\pos(106,188)\frz22\1c00AAAAAA\fs12\fsp2\b1}陪审员资格问卷表
 Dialogue: 0,0:59:36.28,0:59:39.79,Default,,0,0,0,,{\an4\pos(136,188)\frz22\1c00AAAAAA\fs12\b1}姓名：安尼丝·沃德\N年龄：28岁
@@ -89,7 +88,6 @@ Dialogue: 0,1:38:29.62,1:38:33.59,Default,,0,0,0,,{\pos(192,104)\1c00AAAAAA\fscy
 Dialogue: 0,1:38:29.62,1:38:33.59,Default,,0,0,0,,{\pos(192,124)\1c00AAAAAA\fscy120}{\fs16}E. R.·费特迈斯特\h\h{\fs10}饰\h\h{\fs16}利迪配偶弗兰
 Dialogue: 0,1:38:33.61,1:38:37.53,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fscy120}{\fs10}主\h\h\h\h演\N{\fs16}卢卡斯·赫奇斯\h\h{\fs10}饰\h\h{\fs16}邻居盖文
 Dialogue: 0,1:38:37.55,1:38:41.47,Default,,0,0,0,,{\pos(192,130)\1c00AAAAAA\fscy120}{\fs10}主\h\h\h\h演\N{\fs16}约翰·卡洛·林奇\h\h{\fs10}饰\h\h{\fs16}三明治店老板皮特
-Dialogue: 0,1:42:23.24,1:42:28.62,Default,,0,0,0,,{\move(192,250,192,130)\fs12\1c00CCCCCC\fsp2}本故事纯属虚构 如有雷同实属巧合
 Dialogue: 0,1:42:30.00,1:42:41.46,Default,,0,0,0,,{\move(192,270,192,5)\fs26\b1\1c00EEEEEE\fsp2}对不起，宝贝
 Dialogue: 0,1:42:55.51,1:42:59.07,Default,,0,0,0,,{\b1\fscx150\shad0\bord0\fsp2\fs24\1c00AAAAAA}（A24影业）
 Dialogue: 0,0:01:56.13,0:01:57.24,Default,,0,0,0,,天呐 你终于到了\N{\rEng}Oh, my God! Hi!
